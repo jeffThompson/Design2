@@ -25,6 +25,8 @@ Navigating Github, using the scanner
 **Homework**  
 Photocopier Collage; bring in brushes, ink, and other materials for mark-making
 
+\- \- \-
+
 ###WEEK 2  
 **DUE: Photocopier Collage**  
 
@@ -33,6 +35,8 @@ Add type to Photocopier Collage, print final results, install exhibition of coll
 
 **Homework**  
 Create vector letter inspired by your mark-making experiments
+
+\- \- \-
 
 ###WEEK 3  
 **DUE: Finished letterform design**  
@@ -45,6 +49,8 @@ Mill/print your letterforms, scan, pick a complementary font
 
 **Homework**  
 Letterform Poster
+
+\- \- \-
 
 ###WEEK 4  
 **DUE: Letterform Poster**  
@@ -61,6 +67,8 @@ Design Elements book
 **Reading**  
 Excerpt from *Structure of the Visual Book* (Smith)
 
+\- \- \-
+
 ###WEEK 5  
 **DUE: Design Elements book**  
 
@@ -75,6 +83,8 @@ Master pages, margins and bleed, inserting images, exporting multi-page book fil
 
 **Reading**  
 *Design and Crime* (Foster) and *10 Principles* (Rams)
+
+\- \- \-
 
 ###WEEK 6  
 **DUE: {Something}punk Book**  
@@ -91,6 +101,8 @@ Bind books
 **Homework**  
 Speculative Futures research, text selection, and image and visual resource gathering
 
+\- \- \-
+
 ###WEEK 7  
 **DUE: Speculative Futures research and gathering**  
 
@@ -102,6 +114,8 @@ Set up book files and styles, work day
 
 **Homework**  
 Speculative Futures sample pages
+
+\- \- \-
 
 ###WEEK 8  
 **DUE: Speculative Futures sample pages**  
@@ -115,9 +129,13 @@ Work day
 **Homework**  
 Speculative Futures mockup
 
+\- \- \-
+
 ###MAR 13–17  
 **SPRING BREAK – NO CLASS**
 Work on your mockups.
+
+\- \- \-
 
 ###WEEK 9  
 **DUE: Speculative Futures mockup**  
@@ -134,6 +152,8 @@ Finish and order book from Blurb, print process book
 **Reading**  
 Excerpt from *Design of Everyday Things* (Norman), *Interaction Design is Dead. Now What?* (Ammer)
 
+\- \- \-
+
 ###WEEK 10  
 **DUE: Speculative Futures process book**  
 
@@ -145,6 +165,8 @@ Design sprint group ideation
 
 **Homework**  
 App Design screen mockups and interaction diagrams
+
+\- \- \-
 
 ###WEEK 11  
 **DUE: App Design screen mockups and interaction diagrams**  
@@ -158,6 +180,8 @@ Work day
 **Homework**  
 App Design video
 
+\- \- \-
+
 ###WEEK 12  
 **DUE: App Design video (end of class)**  
 
@@ -170,6 +194,8 @@ Work day
 **Homework**  
 Final Project pitch
 
+\- \- \-
+
 ###WEEK 13  
 **DUE: Final Project pitch**  
 
@@ -179,6 +205,7 @@ Field trip to Cooper Hewitt or MoMA
 **Homework**  
 Final Project work in progress
 
+\- \- \-
 
 ###WEEK 14  
 **DUE: Final Project work in progress**  
@@ -192,6 +219,8 @@ Work day
 **Homework**  
 Finish Final Project and process book
 
+\- \- \-
+
 ### EXAM PERIOD  
 **DUE: Final Projects**  
 Critique of final projects, turn in process book
@@ -199,7 +228,7 @@ Critique of final projects, turn in process book
 ***  
 
 ##REQUIRED MATERIALS  
-Towards the end of the semester we’ll be working more digitally, but at the start you should bring these supplies every ###WEEK. Purchase locally, or see [this list](http://a.co/7Bj19NL). Required and suggested readings will be provided as PDFs online – there is no required textbook.
+Towards the end of the semester we’ll be working more digitally, but at the start you should bring these supplies every week. Purchase locally, or see [this list](http://a.co/7Bj19NL). Required and suggested readings will be provided as PDFs online – there is no required textbook.
  
 * Laptop with Adobe Illustrator, InDesign, and Photoshop  
 Demos will be with Creative Cloud 2017. All students will have access to the full Creative Cloud suite free of charge through stevens.edu/vle, though using the Lab computers may be more reliable. If you use your laptop, please don’t forget your charger!
