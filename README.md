@@ -3,14 +3,14 @@ DESIGN II
  
 The process of design is built on typography and shape and process, but today is much more than just solutions to visual problems. Design is about problem-making (and solving), responding to the world, offering up new visual ideas, thinking through materials, social responsibility, and communicating ideas between people. This semester, we’ll build on the fundamentals you learned in Design I, but will be focusing on processes that cross the analog/digital divide, and on designing experiences with multiple pages and screens.
 
->>"[We] no longer talk about digital versus analog but instead about modulations of the digital or different intensities of the computational."
+>"[We] no longer talk about digital versus analog but instead about modulations of the digital or different intensities of the computational."
 – D. M. Berry
 
 Making is our primary mode of investigation, though we will also conduct visual and design research, and read texts by designers. The goal of this class is wide-ranging exploration, creating surprise, and finding new ways of working with the goal of building your visual vocabulary and starting to find your voice as a designer.
 
 Homework in this class is meant to be exploratory, a way to expand on the experiences and ideas in class. I encourage wide-ranging interpretation of assignments: consider ways that you can fulfill the requirements in a way that is creatively and intellectually exciting for you, not just the obvious requirements. Of course, this is much harder than just reading a chapter or studying for a quiz! I expect considerable engagement from you this semester, and you should expect the material to be rigorous and thorough.
 
->>"I think it is healthy to have certain level of humility and fear. I tell my students when they worry about such feelings, it shows me they are demonstrating care, and care involves a great deal of uncertainty. That means treating your work well - lending it your best craft, your best intentions, your love."
+>"I think it is healthy to have certain level of humility and fear. I tell my students when they worry about such feelings, it shows me they are demonstrating care, and care involves a great deal of uncertainty. That means treating your work well - lending it your best craft, your best intentions, your love."
 – Erik Brandt, designer and professor
 
 ***  
