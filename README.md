@@ -229,36 +229,36 @@ Critique of final projects, turn in process book
 
 ##REQUIRED MATERIALS  
 Towards the end of the semester we’ll be working more digitally, but at the start you should bring these supplies every week. Purchase locally, or see [this list](http://a.co/7Bj19NL). Required and suggested readings will be provided as PDFs online – there is no required textbook.
- 
-* Laptop with Adobe Illustrator, InDesign, and Photoshop  
+
+* **Laptop with Adobe Illustrator, InDesign, and Photoshop**  
 Demos will be with Creative Cloud 2017. All students will have access to the full Creative Cloud suite free of charge through stevens.edu/vle, though using the Lab computers may be more reliable. If you use your laptop, please don’t forget your charger!
-* Sketchbook  
+* **Sketchbook**  
 At least 5x9” – spiral-bound is best so you can tear out or scan drawings more easily. Please work one-sided only for the same reason.
-* Various drawing/writing implements  
+* **Various drawing/writing implements**  
 At least some pencils and pens of various kinds (I really like the Micron Pigma pens for drawing and layout ideation).
-* Digital camera  
+* **Digital camera**  
 For gathering visual material (phone is ok).
-* Jar of India ink  
+* **Jar of India ink**  
 Black, 1–2oz size (Higgins or Speedball brand is very good).
-* At least two medium-sized brushes of different sizes  
+* **At least two medium-sized brushes of different sizes**  
 Cheap ones are ok, synthetic bristles will probably be better for ink.
-* Bone folder  
+* **Bone folder**  
 For folding paper; Teflon ones are fine, if you prefer.
-* Metal ruler  
+* **Metal ruler**  
 At least 12-inches long (15-inches is better), with or without cork backing.
-* Bookbinder’s awl  
+* **Bookbinder’s awl**  
 For making holes in paper; a regular carpenters awl may work, but one made for bookbinding will be better.
-* Larger knife with replacement blades  
+* **Larger knife with replacement blades**  
 Olfa-brand knives are excellent, but a utility knife will work too. Optionally, you may also want an X-Acto knife with replacement blades.
-* Self-healing cutting mat  
+* **Self-healing cutting mat**  
 At least 9x12” (we have larger ones, but you should also have your own).
-* Bookbinding needle  
+* **Bookbinding needle**  
 (The eyes on regular sewing needles are far too small.)
-* Linen thread  
+* **Linen thread**  
 Doesn’t stretch like normal sewing thread, making for tighter stitches.
-* Various papers and supplies as needed  
+* **Various papers and supplies as needed**  
 For physical-focused projects and documentation of process.
-* Digital printing  
+* **Digital printing**  
 At least two projects this semester, printed in the Fab Lab (better option) or locally.
-* Print-on-demand book  
+* **Print-on-demand book**  
 Cost will vary depending on size, but plan for $15–30 (we’ll be using Blurb since they provide an easy-to-use InDesign plugin).
