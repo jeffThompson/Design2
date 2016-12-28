@@ -13,6 +13,16 @@ Homework in this class is meant to be exploratory, a way to expand on the experi
 Or, as said by designer and professor Erik Brandt: "I think it is healthy to have certain level of humility and fear. I tell my students when they worry about such feelings, it shows me they are demonstrating care, and care involves a great deal of uncertainty. That means treating your work well - lending it your best craft, your best intentions, your love."
 
 ***  
+
+##CONTENTS  
+This repository contains all the materials for this class, except grades, which can be found on Canvas.
+
+* **Assignments:** where all assignments will be posted, including deadlines and requirements.  
+* **Images:** a folder of images related to our projects. Not all are included in the Assignments, so feel free to browse.  
+* **Readings:** where required and optional readings will be shared.  
+* **README.md:** this file!
+
+***  
  
 ##COURSE CALENDAR
 
