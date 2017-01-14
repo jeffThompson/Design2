@@ -109,12 +109,12 @@ Pamphlet stitch/staple and stab binding; keeping a process book
 Bind books
 
 **Homework**  
-Speculative Futures research, text selection, and image and visual resource gathering
+{Something}wave research, text selection, and image and visual resource gathering
 
 \- \- \-
 
 ###WEEK 7  
-**DUE: Speculative Futures research and gathering**  
+**DUE: {Something}wave research and gathering**  
 
 **Demo**  
 Paragraph and character styles, flowing large blocks of text, print on demand providers
@@ -123,12 +123,12 @@ Paragraph and character styles, flowing large blocks of text, print on demand pr
 Set up book files and styles, work day
 
 **Homework**  
-Speculative Futures sample pages
+{Something}wave sample pages
 
 \- \- \-
 
 ###WEEK 8  
-**DUE: Speculative Futures sample pages**  
+**DUE: {Something}wave sample pages**  
 
 **Demo**  
 Setting up cover files
@@ -137,7 +137,7 @@ Setting up cover files
 Work day
 
 **Homework**  
-Speculative Futures mockup
+{Something}wave mockup
 
 \- \- \-
 
@@ -148,7 +148,7 @@ Work on your mockups.
 \- \- \-
 
 ###WEEK 9  
-**DUE: Speculative Futures mockup**  
+**DUE: {Something}wave mockup**  
 
 **Demo**  
 Exporting PDFs for professional printing, pre-flight, ePub and screen PDF output
@@ -165,7 +165,7 @@ Excerpt from *Design of Everyday Things* (Norman), *Interaction Design is Dead. 
 \- \- \-
 
 ###WEEK 10  
-**DUE: Speculative Futures process book**  
+**DUE: {Something}wave process book**  
 
 **Discussion**  
 Print vs screen paradigms
