@@ -15,9 +15,11 @@ Your assignment is to build a heavily layered or manipulated collage using only 
 
 You can also try different copy machines to explore different results: one at Kinkos is probably different than the crappy one in a gas station or bodega.
 
+Next week, we'll add type to the scanned copies, turning them into posters, which we'll print and hang in the hall.
+
 *Top: punk rock flyers, making use of the copier as a tool for cheap, DIY printing. Note they're all 1/4th of a letter sheet for maximum efficiency: design decisions driven by constraint; above: a page from Sigmar Polke's hand-copied book "Daphne".*
 
-### PROJECT REQUIREMENTS
+### REQUIREMENTS
 
 * Copies should be 8.5x11" (though we'll blow this up larger in the final version)  
 * Black and white only – no color, please!  
