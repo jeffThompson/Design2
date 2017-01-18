@@ -1,8 +1,7 @@
-![Punk rock flyers, making use of the copier as a tool for cheap, DIY printing](https://raw.githubusercontent.com/jeffThompson/DesignII/master/Images/Week01/PunkRockFlyers.png)
+![Punk rock flyers, making use of the copier as a tool for cheap, DIY printing](https://raw.githubusercontent.com/jeffThompson/Design2/master/Images/Week01/PunkRockFlyers.png)
 
 PHOTOCOPIER COLLAGE
 ====
-
 
 > "A photocopier is only a camera with a horizontal surface." – David Hockney  
 
@@ -16,7 +15,7 @@ Your assignment is to build a heavily layered or manipulated collage using only 
 
 You can also try different copy machines to explore different results: one at Kinkos is probably different than the crappy one in a gas station or bodega.
 
-*Above: punk rock flyers, making use of the copier as a tool for cheap, DIY printing. Note they're all 1/4th of a letter sheet for maximum efficiency: design decisions driven by constraint.*
+*Top: punk rock flyers, making use of the copier as a tool for cheap, DIY printing. Note they're all 1/4th of a letter sheet for maximum efficiency: design decisions driven by constraint; above: a page from Sigmar Polke's hand-copied book "Daphne".*
 
 ### PROJECT REQUIREMENTS
 

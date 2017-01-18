@@ -33,7 +33,7 @@ Introductions and syllabus
 Navigating Github, using the scanner
 
 **Homework**  
-Photocopier Collage; bring in brushes, ink, and other materials for mark-making
+[Photocopier Collage](https://github.com/jeffThompson/Design2/blob/master/Assignments/01_PhotocopierCollage.md); bring in brushes, ink, and other materials for mark-making
 
 \- \- \-
 
