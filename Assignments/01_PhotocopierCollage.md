@@ -44,6 +44,7 @@ Next week, we'll add type to the scanned copies, turning them into posters, whic
 
 ### RESOURCES AND FURTHER READING  
 
+* Optional reading from *Adjusted Margin: Xerography, Art, and Activism in the Late Twentieth Century* by Kate Eichhorn ([PDF](https://github.com/jeffThompson/Design2/blob/master/Readings/AdjustedMargin-XerographyArtAndActivismInTheLateTwentiethCentury_KateEichhorn_2016.pdf))  
 * Copying a copy can result in [generation loss](https://en.wikipedia.org/wiki/Generation_loss), similar to re-saving a JPG file or re-uploading a YouTube video  
 * [Some](http://www.osbornandson.com/examphoto.html) [links](http://www.handwritingexpertron.com/is-it-fabricated.html) [about](http://www.crimescene.com/wyattcase-evidence/2522-copier-forensics) forensic examination of photocopies  
 * American Institute for Conservation's [guide to preserving photocopies](http://cool.conservation-us.org/coolaic/sg/bpg/annual/v08/bp08-05.html)  
