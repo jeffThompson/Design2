@@ -24,15 +24,28 @@ Next week, we'll add type to the scanned copies, turning them into posters, whic
 * Copies should be 8.5x11" (though we'll blow this up larger in the final version)  
 * Black and white only – no color, please!  
 * The photocopier, knife/scissors, glue/tape, and objects/images are the only tools allowed, nothing digital  
-* Finished collages should be scanned at 600ppi and saved as TIFF files
+* Finished collages should be scanned at 600ppi and saved as TIFF files (see below for details)  
 
 **Scanned collages are due next week, January 26th at the start of class.**
 
+### SCANNER SETTINGS
+
+![Screenshot of scanner settings](https://raw.githubusercontent.com/jeffThompson/Design2/master/Images/Week01/ScannerSettings.png)  
+
+First, you may need to [install the scanner software](https://epson.com/Support/Scanners/Perfection-Series/Epson-Perfection-V600-Photo/s/SPT_B11B198011). Then, in the Epson Scan, change your settings to:
+
+* If not already, change `Mode` (in top right corner) to `Professional`  
+* 16-bit grayscale (color ok too)  
+* Resolution to 600 dpi  
+* Use the `Preview` button to set the scan area, then hit `Scan`  
+* On the next screen, choose TIFF file and scan to file  
+
 ### ARTISTS AND PROJECTS SHOWN  
+
 (Lots of these examples are in the `Images` folder for this week.)  
 
 * [Pati Hill](https://en.wikipedia.org/wiki/Pati_Hill) (a [piece about her in the New Yorker](https://github.com/jeffThompson/Design2/blob/master/Readings/PatiHill_NewYorker_Aug4-1980.pdf) and her [New York Times obit](https://www.nytimes.com/2014/09/24/arts/pati-hill-an-author-turned-artist-dies-at-93.html)  
-* Sigmar Polke's wonderful book [*Daphne*}(http://stoppingoffplace.blogspot.com/2010/06/sigmar-polke-daphne.html))  
+* Sigmar Polke's wonderful book [*Daphne*](http://stoppingoffplace.blogspot.com/2010/06/sigmar-polke-daphne.html))  
 * Ian Burn's wonderful [*Xerox Book #1*](http://cs.nga.gov.au/Detail.cfm?img=33720&irn=33720&vid=1)  
 * [Wallace Berman](http://blogs.getty.edu/pacificstandardtime/explore-the-era/worksofart/untitled-verifax-collage)  
 * Bruno Munari  
@@ -51,7 +64,7 @@ Next week, we'll add type to the scanned copies, turning them into posters, whic
 * Yes, you can pay for [Photoshop brushes](https://thevectorlab.com/products/bad-photocopy) to mimic crappy photocopies  
 
 ### FOR NEXT WEEK
-Please bring in your finished collage (scanned as a high-res TIFF file – you may need to install Epson Scan software on your laptop) as well as the copies you made along the way.  
+Please bring in your finished collage (scanned as a high-res TIFF file – you may need to install [Epson Scan software](https://epson.com/Support/Scanners/Perfection-Series/Epson-Perfection-V600-Photo/s/SPT_B11B198011) on your laptop) as well as the copies you made along the way.  
 
 This week you should also purchase the supplies you'll need for the semester (listed in the syllabus and [some here](http://a.co/7Bj19NL)). You won't need everything next week, but be sure to bring:
 
