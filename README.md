@@ -26,7 +26,7 @@ This repository contains all the materials for this class, except grades, which 
  
 ##COURSE CALENDAR
 
-###WEEK 1  
+###[WEEK 1](https://github.com/jeffThompson/Design2/blob/master/Assignments/01_PhotocopierCollage.md)  
 Introductions and syllabus
 
 **Demo**  
@@ -37,7 +37,7 @@ Navigating Github, using the scanner
 
 \- \- \-
 
-###WEEK 2  
+###[WEEK 2](https://github.com/jeffThompson/Design2/blob/master/Assignments/02_WoodTypeExperiments.md)  
 **DUE: Photocopier Collage**  
 
 **In class**  
