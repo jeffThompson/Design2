@@ -27,7 +27,7 @@ All of these materials should be turned in at the end of the project, so please 
 ### PROJECT CALENDAR  
 
 **Feb 2:** Project assigned, create vector letter design  
-**Feb 9:** Scan letterform, create poster in Illustrator
+**Feb 9:** Scan letterform, create poster in Illustrator  
 **Feb 16:** Letterform poster due, start InDesign tutorials
 
 ![Alphablox letterform shapes for relief printing](https://raw.githubusercontent.com/jeffThompson/Design2/master/Images/Week02/Alphablox-04.jpg)
