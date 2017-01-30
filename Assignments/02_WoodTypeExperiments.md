@@ -27,7 +27,7 @@ All of these materials should be turned in at the end of the project, so please 
 ### PROJECT CALENDAR  
 
 **Feb 2:** Project assigned, create vector letter design  
-**Feb 9:** Jeff out of town – no class! Work printing your letters and your posters...
+**Feb 9:** Jeff out of town – no class! Work printing your letters and your posters...  
 **Feb 16:** Letterform poster due, start InDesign tutorials
 
 ### ARTISTS AND PROJECTS SHOWN  
@@ -42,11 +42,11 @@ All of these materials should be turned in at the end of the project, so please 
 * Really want to know why picas and points were used to measure type? Get [your answer here](http://www.jstor.org/stable/40345194?seq=1#page_scan_tab_contents)  
 * A [wonderful, deep dive into rounded typefaces](https://www.fontshop.com/content/a-round-of-applause-for-well-rounded-type-talent-part-1), especially as they relate to wood type and the kind of pens used to draw letterforms  
 
-![Artboard layout for the project](https://raw.githubusercontent.com/jeffThompson/Design2/master/Images/Week02/WoodTypeLayout.png)
-
 ### FOR THURSDAY, FEBRUARY 2
 
 For next week, using your drawings as inspiration, create a set of three vector letterforms. The letter/symbols you choose is up to you, though it would be useful to think about which letters might best represent your typeface. You should also think about the limitations of the CNC mill – corners will be rounded and super fine detail is not possible, as it might be with a laser printer. Instead of limitations, try to see this as a design challenge and something that will guide the aesthetic.
+
+![Artboard layout for the project](https://raw.githubusercontent.com/jeffThompson/Design2/master/Images/Week02/WoodTypeLayout.png)
 
 **Please design your letters to fit in a 3.5 x 3.5" block, next to each other, in a single Illustrator file (like in the image above).**
 
