@@ -27,28 +27,28 @@ All of these materials should be turned in at the end of the project, so please 
 ### PROJECT CALENDAR  
 
 **Feb 2:** Project assigned, create vector letter design  
-**Feb 9:** Scan letterform, create poster in Illustrator  
+**Feb 9:** Jeff out of town – no class! Work printing your letters and your posters...
 **Feb 16:** Letterform poster due, start InDesign tutorials
-
-![Alphablox letterform shapes for relief printing](https://raw.githubusercontent.com/jeffThompson/Design2/master/Images/Week02/Alphablox-04.jpg)
 
 ### ARTISTS AND PROJECTS SHOWN  
 
 * Tim Knowles' [drawings using trees](http://www.timknowles.co.uk/Work/TreeDrawings/CircularWeepingWillow/tabid/266/Default.aspx)  
 * Yuichiro Katsumoto's [*Mojigen & Sujigen*](http://www.katsumotoy.com/mojisuji/index.html)  
 * Lots of [wonderful calligraphy](https://www.brooklynmuseum.org/opencollection/search?keyword=calligraphy&type=objects) from the Brooklyn Museum online collection  
-* Alphablox pieces to build letterforms (image above) and the Monoblox and Alphablox systems  
+* Alphablox pieces to build letterforms, and the Monoblox and Alphablox systems  
 
 ### RESOURCES AND FURTHER READING  
 
 * Really want to know why picas and points were used to measure type? Get [your answer here](http://www.jstor.org/stable/40345194?seq=1#page_scan_tab_contents)  
 * A [wonderful, deep dive into rounded typefaces](https://www.fontshop.com/content/a-round-of-applause-for-well-rounded-type-talent-part-1), especially as they relate to wood type and the kind of pens used to draw letterforms  
 
-### FOR THURSDAY, FEB 2
+![Artboard layout for the project](https://raw.githubusercontent.com/jeffThompson/Design2/master/Images/Week02/WoodTypeLayout.png)
+
+### FOR THURSDAY, FEBRUARY 2
 
 For next week, using your drawings as inspiration, create a set of three vector letterforms. The letter/symbols you choose is up to you, though it would be useful to think about which letters might best represent your typeface. You should also think about the limitations of the CNC mill – corners will be rounded and super fine detail is not possible, as it might be with a laser printer. Instead of limitations, try to see this as a design challenge and something that will guide the aesthetic.
 
-**Please design your letters to fit in a 3.5 x 3.5" block, next to each other, in a single Illustrator file. Bring your file and a laser print of your letterforms to class.**
+**Please design your letters to fit in a 3.5 x 3.5" block, next to each other, in a single Illustrator file (like in the image above).**
 
 Please also wear clothes you don't mind getting messy (or an apron). We'll be printing with ink, and though we hopefully won't make too much of a mess, better safe than sorry.  
 
