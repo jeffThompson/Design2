@@ -7,7 +7,7 @@ WOOD TYPE EXPERIMENTS
 
 While we may live in a time when apps and websites make up much of our daily experience, the most exciting results tend to happen when we explore the cracks between things. Continuing our play with materials and process, in the next few weeks we'll be creating letterforms via a back-and-forth between physical and digital, constantly converting between the two.
 
-After a series of mark-making experiments in class, you'll design letterforms digitally, we'll mill those into wood using a CNC router, print them, scan the prints, and create a poster. The goal of this project is to explore type as a highly mutable and expressive tool, and to explore how physical materials and processes can inspire design work that would be impossible with just the computer.
+After a series of mark-making experiments in class, you'll design letterforms digitally, we'll mill those into wood using laser cutter, print them, scan the prints, and create a poster. The goal of this project is to explore type as a highly mutable and expressive tool, and to explore how physical materials and processes can inspire design work that would be impossible with just the computer.
 
 **DUE THURSDAY, FEBRUARY 16**
 
@@ -19,7 +19,7 @@ This project will several deliverables over the next three weeks:
 
 * Hand-drawn mark and letterform experiments  
 * Three vector letterforms  
-* Milled wood type and printed letters  
+* Lasercut wood type and printed letters  
 * Finished, printed poster design – should be 11x17" with a 1/4" margin, and use a complementary font chosen to go well with the one your design  
 
 All of these materials should be turned in at the end of the project, so please save everything as you go. Remember that presentation and craft counts towards your grade, so keep everything in a safe place.
@@ -44,11 +44,23 @@ All of these materials should be turned in at the end of the project, so please 
 
 ### FOR THURSDAY, FEBRUARY 2
 
-For next week, using your drawings as inspiration, create a set of three vector letterforms. The letter/symbols you choose is up to you, though it would be useful to think about which letters might best represent your typeface. You should also think about the limitations of the CNC mill – corners will be rounded and super fine detail is not possible, as it might be with a laser printer. Instead of limitations, try to see this as a design challenge and something that will guide the aesthetic.
+For next week, using your drawings as inspiration, create a set of three vector letterforms. The letter/symbols you choose is up to you, though it would be useful to think about which letters might best represent your typeface. 
 
 ![Artboard layout for the project](https://raw.githubusercontent.com/jeffThompson/Design2/master/Images/Week02/WoodTypeLayout.png)
 
 **Please design your letters to fit in a 3.5 x 3.5" block, next to each other, in a single Illustrator file (like in the image above).**
 
 Please also wear clothes you don't mind getting messy (or an apron). We'll be printing with ink, and though we hopefully won't make too much of a mess, better safe than sorry.  
+### PREPPING YOUR FILES FOR CUTTING  
+
+We need to do a few things to get your letterforms ready for the lasercutter.
+
+![Example of type reversed and ready for printing](https://raw.githubusercontent.com/jeffThompson/Design2/master/Images/Week02/WoodTypeReadyForPrinting.png)
+
+1. Be sure your document is the right size: 3.5 x 10.5"  
+2. Add a single black background to your entire document and change your letters to white (be sure the black is `rgb(0,0,0)` and not just the black swatch)  
+3. *Optional: create three separate black squares with minimal margin around your letters to save time on the lasercutter – your block won't look quite as nice, but it's quicker to cut*  
+4. Merge any shapes making up a letter into a single shape (`Pathfinder > Merge...`)
+5. Flip your type! When we print them on the press, they'll get reversed (`Object > Transform > Reflect > Vertical...`)  
+6. Save your document as a PDF file  
 
