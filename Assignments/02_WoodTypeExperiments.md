@@ -3,13 +3,13 @@
 WOOD TYPE EXPERIMENTS
 ====
 
+**DUE THURSDAY, FEBRUARY 16**
+
 > "[We] no longer talk about digital versus analog but instead about modulations of the digital or different intensities of the computational." – D.M Berry
 
 While we may live in a time when apps and websites make up much of our daily experience, the most exciting results tend to happen when we explore the cracks between things. Continuing our play with materials and process, in the next few weeks we'll be creating letterforms via a back-and-forth between physical and digital, constantly converting between the two.
 
 After a series of mark-making experiments in class, you'll design letterforms digitally, we'll mill those into wood using laser cutter, print them, scan the prints, and create a poster. The goal of this project is to explore type as a highly mutable and expressive tool, and to explore how physical materials and processes can inspire design work that would be impossible with just the computer.
-
-**DUE THURSDAY, FEBRUARY 16**
 
 *Above: an example of a variety of wood type, formatted in a "specimen" book.*
 
@@ -48,7 +48,7 @@ For next week, using your drawings as inspiration, create a set of three vector 
 
 ![Artboard layout for the project](https://raw.githubusercontent.com/jeffThompson/Design2/master/Images/Week02/WoodTypeLayout.png)
 
-**Please design your letters to fit in a 3.5 x 3.5" block, next to each other, in a single Illustrator file (like in the image above).**
+**Please design your letters to fit in a 2.5 x 2.5" block (changed from what we talked about in class, but we can resize later so don't sweat it), next to each other, in a single Illustrator file (like in the image above).**
 
 Please also wear clothes you don't mind getting messy (or an apron). We'll be printing with ink, and though we hopefully won't make too much of a mess, better safe than sorry.  
 ### PREPPING YOUR FILES FOR CUTTING  
@@ -57,7 +57,7 @@ We need to do a few things to get your letterforms ready for the lasercutter.
 
 ![Example of type reversed and ready for printing](https://raw.githubusercontent.com/jeffThompson/Design2/master/Images/Week02/WoodTypeReadyForPrinting.png)
 
-1. Be sure your document is the right size: 3.5 x 10.5"  
+1. Be sure your document is the right size: 2.5 x 7.5" – **note the size change!**  
 2. Add a single black background to your entire document and change your letters to white (be sure the black is `rgb(0,0,0)` and not just the black swatch)  
 3. *Optional: create three separate black squares with minimal margin around your letters to save time on the lasercutter – your block won't look quite as nice, but it's quicker to cut*  
 4. Merge any shapes making up a letter into a single shape (`Pathfinder > Merge...`)
