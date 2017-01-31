@@ -48,7 +48,7 @@ For next week, using your drawings as inspiration, create a set of three vector 
 
 ![Artboard layout for the project](https://raw.githubusercontent.com/jeffThompson/Design2/master/Images/Week02/WoodTypeLayout.png)
 
-**Please design your letters to fit in a 2.5 x 2.5" block (changed from what we talked about in class, but we can resize later so don't sweat it), next to each other, in a single Illustrator file (like in the image above).**
+**Please design your letters to fit in a 2 x 2" block (changed from what we talked about in class, but we can resize later so don't sweat it), next to each other, in a single Illustrator file (like in the image above).**
 
 Please also wear clothes you don't mind getting messy (or an apron). We'll be printing with ink, and though we hopefully won't make too much of a mess, better safe than sorry.  
 ### PREPPING YOUR FILES FOR CUTTING  
@@ -57,7 +57,7 @@ We need to do a few things to get your letterforms ready for the lasercutter.
 
 ![Example of type reversed and ready for printing](https://raw.githubusercontent.com/jeffThompson/Design2/master/Images/Week02/WoodTypeReadyForPrinting.png)
 
-1. Be sure your document is the right size: 2.5 x 7.5" – **note the size change!**  
+1. Be sure your document is the right size: 2 x 6" – **note the size change!**  
 2. Add a single black background to your entire document and change your letters to white (be sure the black is `rgb(0,0,0)` and not just the black swatch)  
 3. *Optional: create three separate black squares with minimal margin around your letters to save time on the lasercutter – your block won't look quite as nice, but it's quicker to cut*  
 4. Merge any shapes making up a letter into a single shape (`Pathfinder > Merge...`)
