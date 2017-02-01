@@ -51,6 +51,16 @@ For next week, using your drawings as inspiration, create a set of three vector 
 **Please design your letters to fit in a 2 x 2" block (changed from what we talked about in class, but we can resize later so don't sweat it), next to each other, in a single Illustrator file (like in the image above).**
 
 Please also wear clothes you don't mind getting messy (or an apron). We'll be printing with ink, and though we hopefully won't make too much of a mess, better safe than sorry.  
+
+### IN CLASS  
+
+During class, you will want to:
+
+1. Lasercut your letters  
+2. Do some printing on the press  
+3. Start picking a matching typeface for your poster  
+4. Ideate/draw poster layouts  
+
 ### PREPPING YOUR FILES FOR CUTTING  
 
 We need to do a few things to get your letterforms ready for the lasercutter.
