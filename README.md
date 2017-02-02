@@ -52,10 +52,10 @@ Create three vector letters inspired by your mark-making experiments
 **DUE: Finished letterform design**  
 
 **Demo**  
-Using the CNC mill and etching press
+Using the lasercutter and etching press
 
 **In class**  
-Mill/print your letterforms, scan, pick a complementary font
+Etch/print your letterforms, scan, pick a complementary font
 
 **Homework**  
 Letterform Poster
@@ -63,6 +63,11 @@ Letterform Poster
 \- \- \-
 
 ###WEEK 4  
+**Jeff out of town – NO CLASS**  
+
+\- \- \-
+
+###WEEK 5  
 **DUE: Letterform Poster**  
 
 **Demo**  
@@ -79,7 +84,7 @@ Excerpt from *Structure of the Visual Book* (Smith)
 
 \- \- \-
 
-###WEEK 5  
+###WEEK 6  
 **DUE: Design Elements book**  
 
 **In class**  
@@ -96,7 +101,7 @@ Master pages, margins and bleed, inserting images, exporting multi-page book fil
 
 \- \- \-
 
-###WEEK 6  
+###WEEK 7  
 **DUE: {Something}punk Book**  
 
 **Discussion**  
@@ -113,7 +118,7 @@ Bind books
 
 \- \- \-
 
-###WEEK 7  
+###WEEK 8  
 **DUE: {Something}wave research and gathering**  
 
 **Demo**  
@@ -127,7 +132,13 @@ Set up book files and styles, work day
 
 \- \- \-
 
-###WEEK 8  
+###MAR 13–17  
+**SPRING BREAK – NO CLASS**
+Work on your mockups.
+
+\- \- \-
+
+###WEEK 9  
 **DUE: {Something}wave sample pages**  
 
 **Demo**  
@@ -141,13 +152,7 @@ Work day
 
 \- \- \-
 
-###MAR 13–17  
-**SPRING BREAK – NO CLASS**
-Work on your mockups.
-
-\- \- \-
-
-###WEEK 9  
+###WEEK 10  
 **DUE: {Something}wave mockup**  
 
 **Demo**  
@@ -164,7 +169,7 @@ Excerpt from *Design of Everyday Things* (Norman), *Interaction Design is Dead. 
 
 \- \- \-
 
-###WEEK 10  
+###WEEK 11  
 **DUE: {Something}wave process book**  
 
 **Discussion**  
@@ -178,7 +183,7 @@ App Design screen mockups and interaction diagrams
 
 \- \- \-
 
-###WEEK 11  
+###WEEK 12  
 **DUE: App Design screen mockups and interaction diagrams**  
 
 **Demo**  
@@ -192,7 +197,7 @@ App Design video
 
 \- \- \-
 
-###WEEK 12  
+###WEEK 13  
 **DUE: App Design video (end of class)**  
 
 **Demo**  
@@ -206,25 +211,11 @@ Final Project pitch
 
 \- \- \-
 
-###WEEK 13  
+###WEEK 14  
 **DUE: Final Project pitch**  
 
 **In class**  
 Field trip to Cooper Hewitt or MoMA
-
-**Homework**  
-Final Project work in progress
-
-\- \- \-
-
-###WEEK 14  
-**DUE: Final Project work in progress**  
-
-**Demo**  
-As needed
-
-**In class**  
-Work day
 
 **Homework**  
 Finish Final Project and process book

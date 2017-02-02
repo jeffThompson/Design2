@@ -53,7 +53,9 @@ For next week, the final part of your assignment is to create a type specimen po
 * You should incorporate your scanned letters, plus an additional typeface with a text describing the qualities of your typeface  
 * Think about repetition, scale, heirarchy – all the basic design elements  
 
-*See the **Project Requirements** section above for technical details on size, etc.
+See the **Project Requirements** section above for technical details on size, etc.
+
+**BRING NEXT WEEK: please bring all of your tools to class – we'll be making accordion books.**
 
 ### FOR THURSDAY, FEBRUARY 2
 
