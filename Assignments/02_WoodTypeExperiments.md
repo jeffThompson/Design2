@@ -20,7 +20,11 @@ This project will several deliverables over the next three weeks:
 * Hand-drawn mark and letterform experiments  
 * Three vector letterforms  
 * Lasercut wood type and printed letters  
-* Finished, printed poster design – should be 11x17" with a 1/4" margin, and use a complementary font chosen to go well with the one your design  
+
+Finally, a laser-printed poster design:  
+
+* 11x17" with a 1/4" margin
+* Use a complementary font, chosen to go well with the one your design, describing your typeface  
 
 All of these materials should be turned in at the end of the project, so please save everything as you go. Remember that presentation and craft counts towards your grade, so keep everything in a safe place.
 
@@ -28,7 +32,7 @@ All of these materials should be turned in at the end of the project, so please 
 
 **Feb 2:** Project assigned, create vector letter design  
 **Feb 9:** Jeff out of town – no class! Work printing your letters and your posters...  
-**Feb 16:** Letterform poster due, start InDesign tutorials
+**Feb 16:** Letterform poster due – bring all materials listed above to class, start InDesign tutorials
 
 ### ARTISTS AND PROJECTS SHOWN  
 
@@ -41,6 +45,15 @@ All of these materials should be turned in at the end of the project, so please 
 
 * Really want to know why picas and points were used to measure type? Get [your answer here](http://www.jstor.org/stable/40345194?seq=1#page_scan_tab_contents)  
 * A [wonderful, deep dive into rounded typefaces](https://www.fontshop.com/content/a-round-of-applause-for-well-rounded-type-talent-part-1), especially as they relate to wood type and the kind of pens used to draw letterforms  
+
+### FOR THURSDAY, FEBRUARY 16  
+
+For next week, the final part of your assignment is to create a type specimen poster, showcasing your typeface. Unlike a bland sample of a typeface online or in Font Book, a specimen poster is meant as an expressive, creative way of presenting your letterforms.
+
+* You should incorporate your scanned letters, plus an additional typeface with a text describing the qualities of your typeface  
+* Think about repetition, scale, heirarchy – all the basic design elements  
+
+*See the **Project Requirements** section above for technical details on size, etc.
 
 ### FOR THURSDAY, FEBRUARY 2
 
@@ -60,6 +73,7 @@ During class, you will want to:
 2. Do some printing on the press  
 3. Start picking a matching typeface for your poster  
 4. Ideate/draw poster layouts  
+5. Work on writing a description of your typeface for your poster  
 
 ### PREPPING YOUR FILES FOR CUTTING  
 
