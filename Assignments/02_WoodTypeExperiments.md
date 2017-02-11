@@ -32,7 +32,7 @@ All of these materials should be turned in at the end of the project, so please 
 
 **Feb 2:** Project assigned, create vector letter design  
 **Feb 9:** Jeff out of town – no class! Work printing your letters and your posters...  
-**Feb 16:** Letterform poster due – bring all materials listed above to class, start InDesign tutorials
+**Feb 16:** Printed letterform poster due – bring all materials listed above to class, start InDesign tutorials
 
 ### ARTISTS AND PROJECTS SHOWN  
 
@@ -52,6 +52,8 @@ For next week, the final part of your assignment is to create a type specimen po
 
 * You should incorporate your scanned letters, plus an additional typeface with a text describing the qualities of your typeface  
 * Think about repetition, scale, heirarchy – all the basic design elements  
+* Print your poster at 11x17" before class on the Lab laser printer, or off-campus  
+* Please also bring your ink experiments, print block, and printed letterforms so we can hang a small exhibition  
 
 See the **Project Requirements** section above for technical details on size, etc.
 
