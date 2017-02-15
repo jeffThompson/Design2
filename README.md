@@ -44,7 +44,7 @@ Navigating Github, using the scanner
 Add type to Photocopier Collage, print final results, install exhibition of collage projects; mark- and letterform-making with various materials
 
 **Homework**  
-Create three vector letters inspired by your mark-making experiments
+[Create three vector letters](https://github.com/jeffThompson/Design2/blob/master/Assignments/02_WoodTypeExperiments.md) inspired by your mark-making experiments
 
 \- \- \-
 
@@ -58,7 +58,7 @@ Using the lasercutter and etching press
 Etch/print your letterforms, scan, pick a complementary font
 
 **Homework**  
-Letterform Poster
+[Letterform Poster](https://github.com/jeffThompson/Design2/blob/master/Assignments/02_WoodTypeExperiments.md)
 
 \- \- \-
 
@@ -67,17 +67,17 @@ Letterform Poster
 
 \- \- \-
 
-###WEEK 5  
+###[WEEK 5](https://github.com/jeffThompson/Design2/blob/master/Assignments/05_DesignElementsBook.md)  
 **DUE: Letterform Poster**  
 
 **Demo**  
 Intro to InDesign, setting up a document, basic tools, exporting print-ready files; accordion books
 
 **In class**  
-Pick terms for Design Elements book
+Pick terms for Design Elements book, accordion book demo
 
 **Homework**  
-Design Elements book
+[Design Elements book](https://github.com/jeffThompson/Design2/blob/master/Assignments/05_DesignElementsBook.md)
 
 **Reading**  
 Excerpt from *Structure of the Visual Book* (Smith)
