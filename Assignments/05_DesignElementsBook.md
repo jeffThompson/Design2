@@ -5,7 +5,7 @@ DESIGN ELEMENTS BOOK
 
 **DUE THURSDAY, FEBRUARY 23**
 
-This week, we'll start thinking about designs that have multiple parts, sequence and surprise, and physicality beyond the flat page. Starting with random design elements, your assignment is to make a two-sided accordion book exploring those elements. A cover is optional, but should be integrated into your design.
+This week, we'll start thinking about designs that have multiple parts, sequence and surprise, and physicality beyond the flat page. Starting with random design elements, your assignment is to make a two-sided accordion book exploring those elements. Size is up to you and a cover is optional, but these choices should be integrated into your design.
 
 **PICKING YOUR ELEMENTS**  
 Your list of elements should include:  
