@@ -11,8 +11,8 @@ book assignment, prints out the results.
 from random import sample
 from ThermalPrinterLib import *
 
-name = 		       'Jeff'
-self_chosen_elem = 'small'
+name = 		       'Anne'
+self_chosen_elem = 'blue'
 num_elements =     3
 
 
@@ -32,7 +32,7 @@ if name[-1] == 's':
 	name += '\''
 else:
 	name = name + '\'s'
-name.upper()
+name = name.upper()
 
 
 # give me some random elements, please
