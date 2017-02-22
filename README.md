@@ -85,7 +85,7 @@ Excerpt from *Structure of the Visual Book* (Smith)
 **DUE: Design Elements book**  
 
 **Demo**  
-Intro to InDesign, setting up a document, margins and bleed, basic tools, exporting print-ready files, insertin gimages
+Intro to InDesign, setting up a document, margins and bleed, basic tools, exporting print-ready files, inserting images
 
 **Homework**  
 {Something}punk Book research
