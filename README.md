@@ -70,9 +70,6 @@ Etch/print your letterforms, scan, pick a complementary font
 ###[WEEK 5](https://github.com/jeffThompson/Design2/blob/master/Assignments/05_DesignElementsBook.md)  
 **DUE: Letterform Poster**  
 
-**Demo**  
-Intro to InDesign, setting up a document, basic tools, exporting print-ready files; accordion books
-
 **In class**  
 Pick terms for Design Elements book, accordion book demo
 
@@ -84,17 +81,14 @@ Excerpt from *Structure of the Visual Book* (Smith)
 
 \- \- \-
 
-###WEEK 6  
+###[WEEK 6](https://github.com/jeffThompson/Design2/blob/master/Assignments/06_SomethingPunkBook.md)  
 **DUE: Design Elements book**  
 
-**In class**  
-Book research in library (measuring, structure, etc)
-
 **Demo**  
-Master pages, margins and bleed, inserting images, exporting multi-page book files, page creep
+Intro to InDesign, setting up a document, margins and bleed, basic tools, exporting print-ready files, insertin gimages
 
 **Homework**  
-{Something}punk Book
+{Something}punk Book research
 
 **Reading**  
 *Design and Crime* (Foster) and *10 Principles* (Rams)
@@ -102,33 +96,30 @@ Master pages, margins and bleed, inserting images, exporting multi-page book fil
 \- \- \-
 
 ###WEEK 7  
-**DUE: {Something}punk Book**  
+**DUE: {Something}punk Book research**  
 
 **Discussion**  
 Foster/Rams readings and the role of decoration
 
 **Demo**  
-Pamphlet stitch/staple and stab binding; keeping a process book
-
-**In class**  
-Bind books
+Pamphlet stitch/staple and stab binding; keeping a process book, exporting multi-page book files, page creep
 
 **Homework**  
-{Something}wave research, text selection, and image and visual resource gathering
+Finish, print, and bind {Something}wave Books
 
 \- \- \-
 
 ###WEEK 8  
-**DUE: {Something}wave research and gathering**  
+**DUE: {Something}wave Books**  
 
 **Demo**  
-Paragraph and character styles, flowing large blocks of text, print on demand providers
+Master pages, paragraph and character styles, flowing large blocks of text, print on demand providers
 
 **In class**  
-Set up book files and styles, work day
+Book research in library (measuring, structure, etc), work day
 
 **Homework**  
-{Something}wave sample pages
+Large book project research, text selection, project brief
 
 \- \- \-
 
@@ -139,21 +130,21 @@ Work on your mockups.
 \- \- \-
 
 ###WEEK 9  
-**DUE: {Something}wave sample pages**  
+**DUE: book project research, texts, and brief**  
 
 **Demo**  
 Setting up cover files
 
 **In class**  
-Work day
+Critique of Design 3 projects, work day
 
 **Homework**  
-{Something}wave mockup
+Large book project mockups
 
 \- \- \-
 
 ###WEEK 10  
-**DUE: {Something}wave mockup**  
+**DUE: book project mockups**  
 
 **Demo**  
 Exporting PDFs for professional printing, pre-flight, ePub and screen PDF output
@@ -170,13 +161,13 @@ Excerpt from *Design of Everyday Things* (Norman), *Interaction Design is Dead. 
 \- \- \-
 
 ###WEEK 11  
-**DUE: {Something}wave process book**  
+**DUE: process book**  
 
 **Discussion**  
 Print vs screen paradigms
 
 **In-class**  
-Design sprint group ideation
+Critique with Design 3 class, design sprint group ideation
 
 **Homework**  
 App Design screen mockups and interaction diagrams
