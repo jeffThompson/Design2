@@ -5,25 +5,27 @@
 
 **DUE THURSDAY, MARCH 9**
 
-[Steampunk](https://en.wikipedia.org/wiki/Steampunk), [seapunk](https://en.wikipedia.org/wiki/Seapunk) ([alt](http://knowyourmeme.com/memes/subcultures/seapunk)), [vaporwave](https://en.wikipedia.org/wiki/Vaporwave) ([alt](http://knowyourmeme.com/memes/subcultures/vaporwave)), and other internet-based subcultures are a mashing of two or more disparate aesthetics into something new. The result is almost always visual, auditory, and weird. Colors, materials, shapes, styles, histories, artifacts, and language get sourced and remixed into something new.
+[Steampunk](https://en.wikipedia.org/wiki/Steampunk), [seapunk](https://en.wikipedia.org/wiki/Seapunk) ([see also](http://knowyourmeme.com/memes/subcultures/seapunk)), [vaporwave](https://en.wikipedia.org/wiki/Vaporwave) ([see also](http://knowyourmeme.com/memes/subcultures/vaporwave)), and other internet-based subcultures are a mashing of two or more disparate aesthetics into something new. The result is almost always visual, auditory, and weird – colors, materials, shapes, styles, histories, artifacts, and language get sourced and remixed into something new.
 
-Your assignment over the next two weeks is to invent a {something}punk or {something}wave genre and make a visual book celebrating it. It can include texts and photos borrowed from elsewhere, but the overall style should be a new mashup. Like the Design Elements book, this is meant as an over-the-top visual celebration.
+Your assignment over the next two weeks is to invent a {something}punk or {something}wave genre (fill in the blank with a word of your choice) and make a visual book celebrating it. It can include texts and photos borrowed from elsewhere, but the overall style should be a new mashup. Like the Design Elements book, this is meant as an over-the-top visual celebration.
 
-In addition, your task is to think about the design challenges a multipage book gives: ideas that unfold over time, the act of turning a page, the physical size of your book, the weight of the paper, how you can build suspense or surprise, and clarity and consitency (or lack thereof) across the entire project.
+In addition, your task is to think about the design challenges a multi-page book gives: ideas that unfold over time, the act of turning a page, the physical size of your book, the weight of the paper, how you can build suspense or surprise, and clarity and consitency (or lack thereof) across the entire project.
 
-Lastly, can you think about this kind of historical/cultural remixing in relationship to [postmodernism](https://en.wikipedia.org/wiki/Postmodernism) and what it means for a colonial culture like ours to borrow in this way? Are there things it's ok for you to borrow, and things that it wouldn't be?
+No need to worry about practicality here: embrace materials, processes, whatever you want to make an amazing book that exemplifies your newly-minted genre.
+
+While working, think as well about this kind of historical/cultural remixing in relationship to [postmodernism](https://en.wikipedia.org/wiki/Postmodernism) and what it means for a colonial culture like ours to borrow in this way? Are there things it's ok for you to borrow, and things that it wouldn't be? How does that influence your decisions as a designer?
 
 *Above: cover art from the classic vaporwave album "Floral Shoppe" by [Macintosh Plus](https://beerontherug.bandcamp.com/album/floral-shoppe).*
 
 ###TECHNICAL REQUIREMENTS  
 Your book should:
 
-* Include at least 12 pages (made up of 3 pieces of paper, folder in half)  
-* Designed to be printed on 1/2 of letter paper minus 1/2" bleed all around (see screenshots below)  
-* Two copies printed and bound using a method that makes sense for your book  
+* Include at least 12 pages (made up of 3 pieces of paper, folded in half)  
+* Designed to be printed on 1/2 of letter paper minus 1/2" bleed all around (see the screenshot below)  
+* Two copies of your finished book, printed and bound using a method that makes sense for your book  
 
 ###FOR THURSDAY, MARCH 2  
-For next week, you'll gather visual source material for your project and create a sample page spread for your book in InDesign. Find and print at least 20 photos, screenshots, or other visual material that relate to your proposed genre. They can be found on the internet, created yourself, photographed from the real world, scanned or photocopied, rubbings, etc. Organize them into a neat, printed presentation that fits with the style of your genre.
+For next week, you'll gather visual source material for your project and create a sample page spread for your book in InDesign. Find and print at least 20 photos, screenshots, or other visual material that relate to your proposed genre. They can be found on the internet, created yourself, photographed from the real world, scanned or photocopied, rubbings, etc. Organize them into a neat, printed presentation that fits with the style of your genre – single-sided only, though!
 
 With your source materials gathered, design a sample page spread for your book. This should fit on a sheet of landscape-oriented letter paper (11x8.5") and include a 1/2" bleed all around. Print this page with crop marks and trim before the start of class next week.
 
