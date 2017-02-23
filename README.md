@@ -84,6 +84,9 @@ Excerpt from *Structure of the Visual Book* (Smith)
 ###[WEEK 6](https://github.com/jeffThompson/Design2/blob/master/Assignments/06_SomethingPunkBook.md)  
 **DUE: Design Elements book**  
 
+**In class**  
+Print and fold Design Elements books; look at artist books, zines, and small-run publications
+
 **Demo**  
 Intro to InDesign, setting up a document, margins and bleed, basic tools, exporting print-ready files, inserting images
 
@@ -105,12 +108,12 @@ Foster/Rams readings and the role of decoration
 Pamphlet stitch/staple and stab binding; keeping a process book, exporting multi-page book files, page creep
 
 **Homework**  
-Finish, print, and bind {Something}wave Books
+Finish, print, and bind {Something}punk Books
 
 \- \- \-
 
 ###WEEK 8  
-**DUE: {Something}wave Books**  
+**DUE: {Something}punk Books**  
 
 **Demo**  
 Master pages, paragraph and character styles, flowing large blocks of text, print on demand providers
