@@ -27,12 +27,6 @@ Your book should:
 ###FOR THURSDAY, MARCH 2  
 For next week, you'll gather visual source material for your project and create a sample page spread for your book in InDesign. Find and print at least 20 photos, screenshots, or other visual material that relate to your proposed genre. They can be found on the internet, created yourself, photographed from the real world, scanned or photocopied, rubbings, etc. Organize them into a neat, printed presentation that fits with the style of your genre – single-sided only though (so we can pin them up and look at them) please!
 
-With your source materials gathered, design a sample page spread for your book. This should be at the final size of 10x7.5" include a 1/2" bleed all around (so that it fits on a landscape-oriented letter-sized sheet of paper). Print this page with crop marks and trim before the start of class next week.
-
-![Layout of the new document at letter size with a 1/2" bleed](https://raw.githubusercontent.com/jeffThompson/Design2/master/Images/Week06/DocumentSetup.png)
-
-*Above: layout for the sample spread, including 1/2" bleed – for screenshots of the print settings, see* `Images/Week06`.
-
 Please also bring all your tools next week, especially your bookbinding awl, thread, and needles. We'll be doing some sample binding ahead of the final version of your {something}punk book, and look at some other binding tools like the pamphlet stapler and guillotine.
 
 Finally, please read the excerpts from *Design and Crime* (Foster) and *10 Principles* (Rams) located in the `Readings` folder, and think about their perspectives on design, ornament, decoration, and sparsity. Write up a 2-3 paragraph response and [post it as an "issue"](https://github.com/jeffThompson/Design2/issues/new) in this repository under the title `Firstname Lastname: Foster/Rams Response`. Take a personal, critical stance – how do you feel as a designer? Bold positions, carefully considered, are especially encouraged.
