@@ -21,8 +21,34 @@ While working, think as well about this kind of historical/cultural remixing in 
 Your book should:
 
 * Include at least 12 pages (made up of 3 pieces of paper, folded in half)  
-* Designed to be printed on 1/2 of letter paper minus 1/2" bleed all around (see the screenshot below)  
+* Designed to be printed on 1/2 of letter paper minus 1/4" bleed all around (see the screenshot below)  
 * Two copies of your finished book, printed and bound using a method that makes sense for your book  
+
+![Document setup](https://raw.githubusercontent.com/jeffThompson/Design2/master/Images/Week06/InDesignScreenshots/DocumentSetup.png)
+
+Above are the settings you'll want for a half-letter-sized book: 5 x 7.5" pages, no gutter or margins, 1/4" bleed. This will give you enough room to trim and account for page creep.
+
+###FOR THURSDAY, MARCH 9  
+For next week, please finish, print, and bind your book. You will want to give yourself enough time for a few printed iterations, making tweaks as you see them in real life. Please think about all visual elements of your book – paper choice, size, and method of binding – as part of your design. We'll look at your finished books at the start of class next week.
+
+The stapler and guillotine are the Fab Lab – check the sign outside for open hours.
+
+**PRINTING INSTRUCTIONS**  
+Printing your book will require a bit more setup than a normal print. InDesign's `Print Booklet` feature can do some really complex printing, but with that comes more options.
+
+![Print booklet screen](https://raw.githubusercontent.com/jeffThompson/Design2/master/Images/Week06/InDesignScreenshots/PrintBooklet.png)
+
+1\. Go to `File > Print Booklet...`, select *2-up Saddle Stitch* and set creep to 0.
+
+![Print booklet "print settings" screen](https://raw.githubusercontent.com/jeffThompson/Design2/master/Images/Week06/InDesignScreenshots/PrintBooklet_PrintSettings.png)
+
+2\. Click on the `Print Settings...` button. Choose the Phaser printer from the dropdown. Select landscape orientation and center page position – these will ensure your pages line up when printed.
+
+![Duplex settings for your printer](https://raw.githubusercontent.com/jeffThompson/Design2/master/Images/Week06/InDesignScreenshots/PrintBooklet_Printer2Sided.png)
+
+3\. In the `Print Settings` dialog, click the `Printer...` button. Select `Two-Sided` under Xerox features (or the little checkbox) so your book automatically prints in duplex. You may need to enable this dialog in `System Preferences > Printers & Scanners > Xerox Phaser > Options & Supplies > Options...`. Click `Print` to exit this window. Click `OK` to exit the `Print Settings` window.
+
+4\. Back in the `Print Booklet` window, check the preview tab to make sure everything looks right, then hit `Print`. Your book should print automatically with pages in the right order – easy, once you get used to it!
 
 ###FOR THURSDAY, MARCH 2  
 For next week, you'll gather visual source material for your project and create a sample page spread for your book in InDesign. Find and print at least 20 photos, screenshots, or other visual material that relate to your proposed genre. They can be found on the internet, created yourself, photographed from the real world, scanned or photocopied, rubbings, etc. Organize them into a neat, printed presentation that fits with the style of your genre – single-sided only though (so we can pin them up and look at them) please!
