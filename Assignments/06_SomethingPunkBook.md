@@ -29,7 +29,7 @@ For next week, you'll gather visual source material for your project and create 
 
 Please also bring all your tools next week, especially your bookbinding awl, thread, and needles. We'll be doing some sample binding ahead of the final version of your {something}punk book, and look at some other binding tools like the pamphlet stapler and guillotine.
 
-Finally, please read the excerpts from *Design and Crime* (Foster) and *10 Principles* (Rams) located in the `Readings` folder, and think about their perspectives on design, ornament, decoration, and sparsity. Write up a 2-3 paragraph response and [post it as an "issue"](https://github.com/jeffThompson/Design2/issues/new) in this repository under the title `Firstname Lastname: Foster/Rams Response`. Take a personal, critical stance – how do you feel as a designer? Bold positions, carefully considered, are especially encouraged.
+Finally, please read the excerpts from *Design and Crime* (Foster) and [*10 Principles*](https://www.vitsoe.com/us/about/good-design) (Rams) located in the `Readings` folder, and think about their perspectives on design, ornament, decoration, and sparsity. Write up a 2-3 paragraph response and [post it as an "issue"](https://github.com/jeffThompson/Design2/issues/new) in this repository under the title `Firstname Lastname: Foster/Rams Response`. Take a personal, critical stance – how do you feel as a designer? Bold positions, carefully considered, are especially encouraged.
 
 ###RESOURCES  
 
