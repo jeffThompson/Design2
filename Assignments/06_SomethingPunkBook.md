@@ -34,7 +34,7 @@ For next week, please finish, print, and bind your book. You will want to give y
 The stapler and guillotine are the Fab Lab – check the sign outside for open hours.
 
 **PRINTING INSTRUCTIONS**  
-Printing your book will require a bit more setup than a normal print. InDesign's `Print Booklet` feature can do some really complex printing, but with that comes more options.
+Printing your book will require a bit more setup than a normal print. InDesign's `Print Booklet` feature can do some really complex printing, but with that comes more options. (Note, if you don't have InDesign on your computer, see the **File Export For Printing** instructions below.)
 
 ![Print booklet screen](https://raw.githubusercontent.com/jeffThompson/Design2/master/Images/Week06/InDesignScreenshots/PrintBooklet.png)
 
@@ -49,6 +49,21 @@ Printing your book will require a bit more setup than a normal print. InDesign's
 3\. In the `Print Settings` dialog, click the `Printer...` button. Select `Two-Sided` under Xerox features (or the little checkbox) so your book automatically prints in duplex. You may need to enable this dialog in `System Preferences > Printers & Scanners > Xerox Phaser > Options & Supplies > Options...`. Click `Print` to exit this window. Click `OK` to exit the `Print Settings` window.
 
 4\. Back in the `Print Booklet` window, check the preview tab to make sure everything looks right, then hit `Print`. Your book should print automatically with pages in the right order – easy, once you get used to it!
+
+**FILE EXPORT FOR PRINTING**  
+If you are using the Lab computers and can't print from them, you'll need to export your spreads as print-ready PDFs, then print from your laptop.
+
+1\. Follow step #1 in the instructions above.
+
+![Print booklet "print settings" screen](https://raw.githubusercontent.com/jeffThompson/Design2/master/Images/Week06/InDesignScreenshots/ExportToPDF.png)
+
+2\. In the `Print Settings` dialog, choose `PostScript File` as the printer and the `Xerox Phaser 7100N` for the PPD.
+
+3\. Choose the landscape orientation for the paper under setup (like shown in the screenshot) and *Crop Marks* in `Marks and Bleed`.
+
+4\. Hit OK to save the PostScript file (a precursor to the PDF format, used in printing).
+
+5\. This file can be opened in Preview or Acrobat Distiller for printing – run as two-sided prints like we've done before.
 
 ###FOR THURSDAY, MARCH 2  
 For next week, you'll gather visual source material for your project and create a sample page spread for your book in InDesign. Find and print at least 20 photos, screenshots, or other visual material that relate to your proposed genre. They can be found on the internet, created yourself, photographed from the real world, scanned or photocopied, rubbings, etc. Organize them into a neat, printed presentation that fits with the style of your genre – single-sided only though (so we can pin them up and look at them) please!
