@@ -41,7 +41,7 @@ Alongside that, please gather visual materials: images that relate to the text, 
 
 Save them to a folder on your computer at the highest resolution possible, and be sure to note what they are in the filename or a notes file. (We'll go over this in class, though you should try to find a methodology that works well for you.)
 
-**PROJET BRIEF**  
+**PROJECT BRIEF**  
 Using your research and gathering as a jumping-off point, please created a project brief for the book. This should include:
 
 * A description of the contents of your book (what text, what other things)  
@@ -54,3 +54,11 @@ Using your research and gathering as a jumping-off point, please created a proje
 
 A brief is a professional document intended to pitch and describe a project: it should be well-designed in the context of the project. Print your finished brief – **single-sided only, please** – and bring it to the next class. We'll do a feedback session, then have a critique with the Design 3 students.
 
+**BONUS!**  
+If you have some time over break (I know, I know) and want to spend a lovely book-based afternoon in the city, you could:
+
+* Take the PATH into 14th Street  
+* Visit [The Strand](http://www.strandbooks.com), a gigantic used bookstore in Union Square (find, photograph, and measure tons of new and old books!)  
+* Hit up some of the many antique bookstores in that area too  
+* Walk up to [Printed Matter] in Chelsea, home to hundreds of amazing small-run artist books and other unique publications  
+* Grab some lunch (and a beverage) at the Half King, then hit some Chelsea galleries before heading back home  
