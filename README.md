@@ -122,18 +122,18 @@ Book research in library (measuring, structure, etc)
 Pamphlet stitch and stab binding, keeping a process book
 
 **Homework**  
-Large book project research, text selection, project brief
+Print-on-demand project research, text selection, project brief
 
 \- \- \-
 
 ###MAR 13–17  
-**SPRING BREAK – NO CLASS**
+**SPRING BREAK – NO CLASS**  
 Work on your books... on the beach! (Or hide out, watch some Netflix, and work on your books.)
 
 \- \- \-
 
 ###WEEK 9  
-**DUE: book project research, texts, and brief**  
+**DUE: print-on-demand project research, texts, and brief**  
 
 **Demo**  
 Master pages, paragraph and character styles, flowing large blocks of text, print on demand providers
@@ -142,12 +142,12 @@ Master pages, paragraph and character styles, flowing large blocks of text, prin
 Critique of Design 3 projects, work day
 
 **Homework**  
-Large book project mockups
+Print-on-demand project mockups
 
 \- \- \-
 
 ###WEEK 10  
-**DUE: book project mockups**  
+**DUE: print-on-demand project mockups**  
 
 **Demo**  
 Setting up cover files, exporting PDFs for professional printing, pre-flight, ePub and screen PDF output
