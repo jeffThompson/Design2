@@ -105,21 +105,21 @@ Intro to InDesign, setting up a document, margins and bleed, basic tools, export
 Foster/Rams readings and the role of decoration
 
 **Demo**  
-Pamphlet stitch/staple and stab binding; keeping a process book, exporting multi-page book files, page creep
+Exporting multi-page book files, page creep; using the paper guillotine and pamphlet stapler  
 
 **Homework**  
 Finish, print, and bind {Something}punk Books
 
 \- \- \-
 
-###WEEK 8  
+###[WEEK 8](https://github.com/jeffThompson/Design2/blob/master/Assignments/08_PrintOnDemandBook.md)  
 **DUE: {Something}punk Books**  
 
-**Demo**  
-Master pages, paragraph and character styles, flowing large blocks of text, print on demand providers
-
 **In class**  
-Book research in library (measuring, structure, etc), work day
+Book research in library (measuring, structure, etc)
+
+**Demo**  
+Pamphlet stitch and stab binding, keeping a process book
 
 **Homework**  
 Large book project research, text selection, project brief
@@ -128,7 +128,7 @@ Large book project research, text selection, project brief
 
 ###MAR 13–17  
 **SPRING BREAK – NO CLASS**
-Work on your mockups.
+Work on your books... on the beach! (Or hide out, watch some Netflix, and work on your books.)
 
 \- \- \-
 
@@ -136,7 +136,7 @@ Work on your mockups.
 **DUE: book project research, texts, and brief**  
 
 **Demo**  
-Setting up cover files
+Master pages, paragraph and character styles, flowing large blocks of text, print on demand providers
 
 **In class**  
 Critique of Design 3 projects, work day
@@ -150,7 +150,7 @@ Large book project mockups
 **DUE: book project mockups**  
 
 **Demo**  
-Exporting PDFs for professional printing, pre-flight, ePub and screen PDF output
+Setting up cover files, exporting PDFs for professional printing, pre-flight, ePub and screen PDF output
 
 **In class**  
 Work day
