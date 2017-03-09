@@ -13,9 +13,9 @@ Alongside the book you're designing, you'll be keeping a "process book" for this
 
 ###PROJECT CALENDAR  
 
-**March 23:** research, texts, and brief due; critique with Design 3  
-**March 30:** spread mockups due; PDF export for printing, ePub and screen PDF output  
-**April 6:** process books due, send project to printer; critique with Design 3, print vs screen paradigms  
+**March 23:** Research, text selection, and brief due; critique with Design 3; master pages, paragraph styles, flowing blocks of text  
+**March 30:** Spread mockups due; cover files, PDFs for professional printing, ePub and screen PDF output  
+**April 6:** Finished process books due, send project to printer; critique with Design 3, print vs screen paradigms discussion  
 
 ###TECHNICAL REQUIREMENTS  
 Your book should:
