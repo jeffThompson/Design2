@@ -29,6 +29,7 @@ Your book should:
 
 ### RESOURCES  
 
+* Sample text (in plaintext format, ready for InDesign) from Agatha Christie's *And Then There Were None* is in the `Resources` folder (or [just click here](https://raw.githubusercontent.com/jeffThompson/Design2/master/Resources/SelectionFromAndThenThereWereNone_AgathaChristie.txt))  
 * We'll use the [Blurb InDesign plugin](http://www.blurb.com/indesign-plugin) to make the design process a little easier  
 * [This list](https://en.wikipedia.org/wiki/Book_design) of book elements (and [this one too](http://www.barbaradoyen.com/book-publishing/anatomy-of-a-book-the-contents))  
 * More info on the [Blurb trade books](http://www.blurb.com/trade-books)  
