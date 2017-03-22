@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/jeffThompson/Design2/master/Images/Week08/FieldBookSpread.jpg)
+![Spread from a scientific field book](https://raw.githubusercontent.com/jeffThompson/Design2/master/Images/Week08/FieldBookSpread.jpg)
 
 PRINT ON DEMAND BOOK
 ====
@@ -11,13 +11,13 @@ In addition to the selection of text, the visual structure of your book and any 
 
 Alongside the book you're designing, you'll be keeping a "process book" for this project as you go. This gathers source material, inspiration, type samples, photos of your process, etc into a single, presentable place. It's meant to show how you got to the finished design, especially choices or process that wouldn't otherwise be obvious from the final product.
 
-###PROJECT CALENDAR  
+### PROJECT CALENDAR  
 
 **March 23:** Research, text selection, and brief due; critique with Design 3; master pages, paragraph styles, flowing blocks of text  
 **March 30:** Spread mockups due; cover files, PDFs for professional printing, ePub and screen PDF output  
 **April 6:** Finished process books due, send project to printer; critique with Design 3, print vs screen paradigms discussion  
 
-###TECHNICAL REQUIREMENTS  
+### TECHNICAL REQUIREMENTS  
 Your book should:
 
 * At least 60 pages long in printed form, though longer is ok  
@@ -27,13 +27,46 @@ Your book should:
 * Finished book printed online using Blurb (please plan for this expense)  
 * Printed and bound process book documenting your work  
 
-###RESOURCES  
+### RESOURCES  
 
 * We'll use the [Blurb InDesign plugin](http://www.blurb.com/indesign-plugin) to make the design process a little easier  
 * [This list](https://en.wikipedia.org/wiki/Book_design) of book elements (and [this one too](http://www.barbaradoyen.com/book-publishing/anatomy-of-a-book-the-contents))  
 * More info on the [Blurb trade books](http://www.blurb.com/trade-books)  
 
-###FOR THURSDAY, MARCH 23  
+### FOR THURSDAY, MARCH 30  
+This week, you'll start designing the layout of your book in InDesign. You should use this time to experiment with the overall look and feel of your book, and get really picky about the typographical choices you're making. We'll be focusing on just a few spreads to start (rather than the entire book) to make iterating quicker, but [Paragraph Styles](https://helpx.adobe.com/indesign/using/paragraph-character-styles.html) will make expanding to the full book easy.
+
+For next week, you'll design:  
+
+* [Frontispiece](https://en.wikipedia.org/wiki/Book_frontispiece) (optional) and title page  
+* Spread of two pages, including chapter/section headers (if you're including graphical elements or illustrations, include them here)  
+* Spread of some other part of the book – could be table of contents, index, a special callout, etc  
+
+**Please bring at least two variations of each of these spreads. They can be small adjustments or radically different versions, but it should give us something to look at and discuss concrete options.**
+
+Be sure to use [Paragraph Styles](https://helpx.adobe.com/indesign/using/paragraph-character-styles.html) to define how the different elements look – we'll copy those settings over to your finished book. Doing things by hand now will make your life a total pain later.
+
+Books are about being really, really (really) picky – adjusting something a fraction of an inch one direction or the other can make a huge difference. Get serious about your design decisions, but don't let that keep you from trying bold ideas, weird layouts, and experimenting with the book form. Take breaks, print out versions and pin them up.
+
+**LAYOUT**  
+Your spreads should match what the final book's layout will be. In this case, it's determined by Blurb, but I've unpacked it for you:
+
+![Settings for your spreads](https://raw.githubusercontent.com/jeffThompson/Design2/master/Images/Week08/InDesignScreenshots/NewDocumentSettings.png)
+
+We'll generate the full book template next week, using the [Blurb InDesign plugin](http://www.blurb.com/indesign-plugin). Adjust your margins from the Blurb minimum to what feels right, based on your book measurements in class.
+
+**PRINTING**  
+You should export the spreads you're printing as PDF files and print them on the laser printer. First, go to `File > Export PDF...` and choose `Adobe PDF (Print)`. Be sure to select `Spreads` instead of pages, and `Crop` under `Marks and Bleed`. You may get a warning about *overprinted text* but you can ignore it.
+
+![Settings for your spreads](https://raw.githubusercontent.com/jeffThompson/Design2/master/Images/Week08/InDesignScreenshots/PDF-Export_01.png)
+
+![Settings for your spreads](https://raw.githubusercontent.com/jeffThompson/Design2/master/Images/Week08/InDesignScreenshots/PDF-Export_02.png)
+
+Then you can print your PDF on the laser printer. Since two 6x9" pages won't fit on 11x17" paper, you'll need to have the printer resize them to fit.
+
+![Settings for your spreads](https://raw.githubusercontent.com/jeffThompson/Design2/master/Images/Week08/InDesignScreenshots/Printing.png)
+
+### FOR THURSDAY, MARCH 23  
 Over the next two weeks, your first step will be to reserach your book. You should think about what text(s) your book will contain (and read them, of course), and work on gathering visual research that will inform the look and feel of your book.
 
 **VISUAL RESEARCH**  
