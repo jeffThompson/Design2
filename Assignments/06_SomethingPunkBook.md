@@ -17,7 +17,7 @@ While working, think as well about this kind of historical/cultural remixing in 
 
 *Above: cover art from the classic vaporwave album "Floral Shoppe" by [Macintosh Plus](https://beerontherug.bandcamp.com/album/floral-shoppe).*
 
-###TECHNICAL REQUIREMENTS  
+### TECHNICAL REQUIREMENTS  
 Your book should:
 
 * Include at least 12 pages (made up of 3 pieces of paper, folded in half)  
@@ -28,7 +28,7 @@ Your book should:
 
 Above are the settings you'll want for a half-letter-sized book: 5 x 7.5" pages, no gutter or margins, 1/4" bleed. This will give you enough room to trim and account for page creep.
 
-###FOR THURSDAY, MARCH 9  
+### FOR THURSDAY, MARCH 9  
 For next week, please finish, print, and bind your book. You will want to give yourself enough time for a few printed iterations, making tweaks as you see them in real life. Please think about all visual elements of your book – paper choice, size, and method of binding – as part of your design. We'll look at your finished books at the start of class next week.
 
 The stapler and guillotine are the Fab Lab – check the sign outside for open hours.
@@ -65,14 +65,14 @@ If you are using the Lab computers and can't print from them, you'll need to exp
 
 5\. This file can be opened in Preview or Acrobat Distiller for printing – run as two-sided prints like we've done before.
 
-###FOR THURSDAY, MARCH 2  
+### FOR THURSDAY, MARCH 2  
 For next week, you'll gather visual source material for your project and create a sample page spread for your book in InDesign. Find and print at least 20 photos, screenshots, or other visual material that relate to your proposed genre. They can be found on the internet, created yourself, photographed from the real world, scanned or photocopied, rubbings, etc. Organize them into a neat, printed presentation that fits with the style of your genre – single-sided only though (so we can pin them up and look at them) please!
 
 Please also bring all your tools next week, especially your bookbinding awl, thread, and needles. We'll be doing some sample binding ahead of the final version of your {something}punk book, and look at some other binding tools like the pamphlet stapler and guillotine.
 
 Finally, please read the excerpts from *Design and Crime* (Foster) and [*10 Principles*](https://www.vitsoe.com/us/about/good-design) (Rams) located in the `Readings` folder, and think about their perspectives on design, ornament, decoration, and sparsity. Write up a 2-3 paragraph response and [post it as an "issue"](https://github.com/jeffThompson/Design2/issues/new) in this repository under the title `Firstname Lastname: Foster/Rams Response`. Take a personal, critical stance – how do you feel as a designer? Bold positions, carefully considered, are especially encouraged.
 
-###RESOURCES  
+### RESOURCES  
 
 * Having trouble coming up with ideas? I built a [little {something}punk generator](http://jeffreythompson.org/somethingpunkgenerator/) to make it easer  
 * See also genres like [retrofuturism](https://en.wikipedia.org/wiki/Retrofuturism), [dieselpunk](https://en.wikipedia.org/wiki/Dieselpunk), [trillwave](https://en.wikipedia.org/wiki/Cloud_rap), and [cyberpunk derivatives](https://en.wikipedia.org/wiki/Cyberpunk_derivatives#Other_proposed_derivatives) stonepunk, clockpunk, nowpunk, elfpunk, mythpunk, dreampunk, atompunk, and cyberprep (these are real things)  

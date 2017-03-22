@@ -21,7 +21,7 @@ As you design the flow and layout of your book, also think about the ideas liste
 
 *Above: Ed Ruscha's 1966 book "Every Building on the Sunset Strip".*
 
-###FOR NEXT WEEK  
+### FOR NEXT WEEK  
 For next week, please bring:
 
 * ~~Printed and finished accordion book (laser printer will probably give you the best results)~~  
@@ -29,6 +29,6 @@ For next week, please bring:
 * Some kind of camera for documenting book elements (phone ok), a ruler, your sketchbook, and an up-to-date library account  
 * If you want to do any modifications to your Letterform poster following the feedback in class, feel free to do so for next week – please bring them printed for the start of class  
 
-###READING  
+### READING  
 Please also read the excerpt from Keith Smith's excellent *Structure of the Visual Book* (found in the `Readings` folder). It will be very helpful thinking about the layout of your book, and upcoming projects.  
 
