@@ -14,7 +14,7 @@ Or, as said by designer and professor Erik Brandt: "I think it is healthy to hav
 
 ***  
 
-##CONTENTS  
+## CONTENTS  
 This repository contains all the materials for this class, except grades, which can be found on Canvas.
 
 * **Assignments:** where all assignments will be posted, including deadlines and requirements.  
@@ -24,7 +24,7 @@ This repository contains all the materials for this class, except grades, which 
 
 ***  
  
-##COURSE CALENDAR
+## COURSE CALENDAR
 
 ### [WEEK 1](https://github.com/jeffThompson/Design2/blob/master/Assignments/01_PhotocopierCollage.md)  
 Introductions and syllabus
@@ -48,7 +48,7 @@ Add type to Photocopier Collage, print final results, install exhibition of coll
 
 \- \- \-
 
-###WEEK 3  
+### WEEK 3  
 **DUE: Finished letterform design**  
 
 **Demo**  
@@ -62,12 +62,12 @@ Etch/print your letterforms, scan, pick a complementary font
 
 \- \- \-
 
-###WEEK 4  
+### WEEK 4  
 **Jeff out of town – NO CLASS**  
 
 \- \- \-
 
-###[WEEK 5](https://github.com/jeffThompson/Design2/blob/master/Assignments/05_DesignElementsBook.md)  
+### [WEEK 5](https://github.com/jeffThompson/Design2/blob/master/Assignments/05_DesignElementsBook.md)  
 **DUE: Letterform Poster**  
 
 **In class**  
@@ -81,7 +81,7 @@ Excerpt from *Structure of the Visual Book* (Smith)
 
 \- \- \-
 
-###[WEEK 6](https://github.com/jeffThompson/Design2/blob/master/Assignments/06_SomethingPunkBook.md)  
+### [WEEK 6](https://github.com/jeffThompson/Design2/blob/master/Assignments/06_SomethingPunkBook.md)  
 **DUE: Design Elements book**  
 
 **In class**  
@@ -98,7 +98,7 @@ Intro to InDesign, setting up a document, margins and bleed, basic tools, export
 
 \- \- \-
 
-###WEEK 7  
+### WEEK 7  
 **DUE: {Something}punk Book research**  
 
 **Discussion**  
@@ -112,7 +112,7 @@ Finish, print, and bind {Something}punk Books
 
 \- \- \-
 
-###[WEEK 8](https://github.com/jeffThompson/Design2/blob/master/Assignments/08_PrintOnDemandBook.md)  
+### [WEEK 8](https://github.com/jeffThompson/Design2/blob/master/Assignments/08_PrintOnDemandBook.md)  
 **DUE: {Something}punk Books**  
 
 **In class**  
@@ -126,13 +126,13 @@ Print-on-demand project research, text selection, project brief
 
 \- \- \-
 
-###MAR 13–17  
+### MAR 13–17  
 **SPRING BREAK – NO CLASS**  
 Work on your books... on the beach! (Or hide out, watch some Netflix, and work on your books.)
 
 \- \- \-
 
-###WEEK 9  
+### WEEK 9  
 **DUE: print-on-demand project research, texts, and brief**  
 
 **Demo**  
@@ -146,7 +146,7 @@ Print-on-demand project mockups
 
 \- \- \-
 
-###WEEK 10  
+### WEEK 10  
 **DUE: print-on-demand project mockups**  
 
 **Demo**  
@@ -163,7 +163,7 @@ Excerpt from *Design of Everyday Things* (Norman), *Interaction Design is Dead. 
 
 \- \- \-
 
-###WEEK 11  
+### WEEK 11  
 **DUE: process book**  
 
 **Discussion**  
@@ -177,7 +177,7 @@ App Design screen mockups and interaction diagrams
 
 \- \- \-
 
-###WEEK 12  
+### WEEK 12  
 **DUE: App Design screen mockups and interaction diagrams**  
 
 **Demo**  
@@ -191,7 +191,7 @@ App Design video
 
 \- \- \-
 
-###WEEK 13  
+### WEEK 13  
 **DUE: App Design video (end of class)**  
 
 **Demo**  
@@ -205,7 +205,7 @@ Final Project pitch
 
 \- \- \-
 
-###WEEK 14  
+### WEEK 14  
 **DUE: Final Project pitch**  
 
 **In class**  
@@ -222,7 +222,7 @@ Critique of final projects, turn in process book
 
 ***  
 
-##REQUIRED MATERIALS  
+## REQUIRED MATERIALS  
 Towards the end of the semester we’ll be working more digitally, but at the start you should bring these supplies every week. Purchase locally, or see [this list](http://a.co/7Bj19NL). Required and suggested readings will be provided as PDFs online – there is no required textbook.
 
 * **Laptop with Adobe Illustrator, InDesign, and Photoshop**  
