@@ -16,8 +16,8 @@ Alongside the book you're designing, you'll be keeping a "process book" for this
 ### PROJECT CALENDAR  
 
 **March 23:** Research, text selection, and brief due; critique with Design 3; master pages, paragraph styles, flowing blocks of text  
-**March 30:** Spread mockups due; cover files, PDFs for professional printing  
-**April 6:** Critique with Design 3, finish Blurb-ready books and process books for next week  
+**March 30:** Spread mockups due; work day  
+**April 6:** Critique with Design 3; cover files, PDFs for professional printing; finish Blurb-ready books and process books for next week  
 **April 13:** Finished process books due, send project to printer; print vs screen paradigms discussion  
 
 ### TECHNICAL REQUIREMENTS  
@@ -38,7 +38,14 @@ Your book should:
 * More info on the [Blurb trade books](http://www.blurb.com/trade-books)  
 
 ### FOR THURSDAY, APRIL 6  
-Continue working on your books! We won't have a formal check-in next week, but a good milestone would be to have everything roughly laid out, plus a start on your cover. You should also work on gathering up materials for your process book and start thinking about how you want to structure that.
+Continue working on your books! We won't have a formal check-in next week, but a good milestone would be to have everything roughly laid out and developing any assets you'll use (like illustrations). You should also work on gathering up materials for your process book and start thinking about how you want to structure that.
+
+As you start your main book pages, you'll want to copy the Paragraph Styles from you mockups. Luckily, InDesign makes this easy:
+
+* In your new document, click the little menu button in the `Paragraph Styles` menu and choose `Load Paragraph Styles...`  
+* Navigate to the mockup document and hit OK  
+
+Boom, there they are! You can also see [this article](http://www.peachpit.com/articles/article.aspx?p=1924553&seqNum=9) if you want to learn more about copying styles, or creating Style Libraries.
 
 ### FOR THURSDAY, MARCH 30  
 This week, you'll start designing the layout of your book in InDesign. You should use this time to experiment with the overall look and feel of your book, and get really picky about the typographical choices you're making. We'll be focusing on just a few spreads to start (rather than the entire book) to make iterating quicker, but [Paragraph Styles](https://helpx.adobe.com/indesign/using/paragraph-character-styles.html) will make expanding to the full book easy.
