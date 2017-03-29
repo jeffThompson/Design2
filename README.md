@@ -150,10 +150,19 @@ Print-on-demand project mockups
 **DUE: print-on-demand project mockups**  
 
 **Demo**  
-Setting up cover files, exporting PDFs for professional printing, pre-flight, ePub and screen PDF output
+Setting up cover files
 
 **In class**  
 Work day
+
+\- \- \-
+
+### WEEK 11  
+**In-class**  
+Critique with Design 3 class, work day
+
+**Demo**  
+Exporting PDFs for professional printing, pre-flight, ePub and screen PDF output
 
 **Homework**  
 Finish and order book from Blurb, print process book
@@ -161,64 +170,51 @@ Finish and order book from Blurb, print process book
 **Reading**  
 Excerpt from *Design of Everyday Things* (Norman), *Interaction Design is Dead. Now What?* (Ammer)
 
+
 \- \- \-
 
-### WEEK 11  
-**DUE: process book**  
+### WEEK 12  
+**DUE: process book, finished book project sent to Blurb for printing**  
 
 **Discussion**  
 Print vs screen paradigms
 
-**In-class**  
-Critique with Design 3 class, design sprint group ideation
+**In class**  
+Design sprint group ideation
 
 **Homework**  
 App Design screen mockups and interaction diagrams
 
 \- \- \-
 
-### WEEK 12  
+### WEEK 13  
 **DUE: App Design screen mockups and interaction diagrams**  
-
-**Demo**  
-Using Keynote to demo interactive projects, exporting video files
 
 **In class**  
 Work day
+
+**Homework**  
+Work on App Design project
+
+\- \- \-
+
+### WEEK 14  
+**DUE: App Design project updates**
+
+**Demo**  
+Using Keynote for interactive demos, compressing graphics-heavy videos, uploading to Vimeo
+
+**In class**  
+Work day  
 
 **Homework**  
 App Design video
 
 \- \- \-
 
-### WEEK 13  
-**DUE: App Design video (end of class)**  
-
-**Demo**  
-Compressing graphics-heavy videos, uploading to Vimeo
-
-**In class**  
-Work day
-
-**Homework**  
-Final Project pitch
-
-\- \- \-
-
-### WEEK 14  
-**DUE: Final Project pitch**  
-
-**In class**  
-Field trip to Cooper Hewitt or MoMA
-
-**Homework**  
-Finish Final Project and process book
-
-\- \- \-
-
 ### EXAM PERIOD  
-**DUE: Final Projects**  
-Critique of final projects, turn in process book
+**DUE: App Projects**  
+Critique of final projects
 
 ***  
 

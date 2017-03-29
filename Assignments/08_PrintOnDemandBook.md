@@ -3,6 +3,8 @@
 PRINT ON DEMAND BOOK
 ====
 
+**NOTE! Due date changed, to give you a little more time ☺️**
+
 As our last book-related project, we'll expand to a larger-scale, culminating in two deliverables: a 60+ page print-on-demand book, and a hand-made book documenting your process. This project is all about scale, working on something with lots of pages, lots of text, lots of ideas, and figuring out how to put them together into a cohesive whole.
 
 Your book should include text, whether one long piece or several shorter ones, for a total of at least 60 pages. The choice of text is up to you, but best would be to choose ones that you're personally interested in. Consider pulling from [Project Gutenberg](http://www.gutenberg.org) using the `Plain Text UTF-8` download, though you could scan and convert to text in Acrobat. (Note that many Project Gutenberg texts have weird [OCR](https://en.wikipedia.org/wiki/Optical_character_recognition) typos and you may need to proof your text.)
@@ -14,8 +16,9 @@ Alongside the book you're designing, you'll be keeping a "process book" for this
 ### PROJECT CALENDAR  
 
 **March 23:** Research, text selection, and brief due; critique with Design 3; master pages, paragraph styles, flowing blocks of text  
-**March 30:** Spread mockups due; cover files, PDFs for professional printing, ePub and screen PDF output  
-**April 6:** Finished process books due, send project to printer; critique with Design 3, print vs screen paradigms discussion  
+**March 30:** Spread mockups due; cover files, PDFs for professional printing  
+**April 6:** Critique with Design 3, finish Blurb-ready books and process books for next week  
+**April 13:** Finished process books due, send project to printer; print vs screen paradigms discussion  
 
 ### TECHNICAL REQUIREMENTS  
 Your book should:
@@ -33,6 +36,9 @@ Your book should:
 * We'll use the [Blurb InDesign plugin](http://www.blurb.com/indesign-plugin) to make the design process a little easier  
 * [This list](https://en.wikipedia.org/wiki/Book_design) of book elements (and [this one too](http://www.barbaradoyen.com/book-publishing/anatomy-of-a-book-the-contents))  
 * More info on the [Blurb trade books](http://www.blurb.com/trade-books)  
+
+### FOR THURSDAY, APRIL 6  
+Continue working on your books! We won't have a formal check-in next week, but a good milestone would be to have everything roughly laid out, plus a start on your cover. You should also work on gathering up materials for your process book and start thinking about how you want to structure that.
 
 ### FOR THURSDAY, MARCH 30  
 This week, you'll start designing the layout of your book in InDesign. You should use this time to experiment with the overall look and feel of your book, and get really picky about the typographical choices you're making. We'll be focusing on just a few spreads to start (rather than the entire book) to make iterating quicker, but [Paragraph Styles](https://helpx.adobe.com/indesign/using/paragraph-character-styles.html) will make expanding to the full book easy.
