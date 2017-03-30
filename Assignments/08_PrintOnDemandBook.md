@@ -16,7 +16,7 @@ Alongside the book you're designing, you'll be keeping a "process book" for this
 ### PROJECT CALENDAR  
 
 **March 23:** Research, text selection, and brief due; critique with Design 3; master pages, paragraph styles, flowing blocks of text  
-**March 30:** Spread mockups due; work day  
+**March 30:** Spread mockups due; installing the Blurb plugin, copying Paragraph Styles; work day  
 **April 6:** Critique with Design 3; cover files, PDFs for professional printing; finish Blurb-ready books and process books for next week  
 **April 13:** Finished process books due, send project to printer; print vs screen paradigms discussion  
 

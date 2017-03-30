@@ -150,7 +150,7 @@ Print-on-demand project mockups
 **DUE: print-on-demand project mockups**  
 
 **Demo**  
-Setting up cover files
+Installing the Blurb plugin, copying Paragraph Styles
 
 **In class**  
 Work day
@@ -162,7 +162,7 @@ Work day
 Critique with Design 3 class, work day
 
 **Demo**  
-Exporting PDFs for professional printing, pre-flight, ePub and screen PDF output
+Setting up cover files, exporting PDFs for professional printing, pre-flight, ePub and screen PDF output
 
 **Homework**  
 Finish and order book from Blurb, print process book
