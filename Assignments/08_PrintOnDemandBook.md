@@ -40,7 +40,7 @@ Your book should:
 ### FOR THURSDAY, APRIL 13  
 For next week, your assignment is to finish your book, send it to Blurb for printing, and finish your process book. We will critique your printed books in two weeks, but bring your process book to class to turn in.
 
-We will also be discussing screen and print paradigms – ahead of our discussion, please read the selection from *Design of Everyday Things* (Norman) and *Interaction Design is Dead. Now What?* (Ammer), located in the `Readings` folder.
+We will also be discussing screen and print paradigms – ahead of our discussion, please read the selection from *Design of Everyday Things* (located in the `Readings` folder) and [*Interaction Design is Dead. Now What?*](https://blog.prototypr.io/interaction-design-is-dead-what-now-db09d77cadae)  
 
 ### FOR THURSDAY, APRIL 6  
 Continue working on your books! We won't have a formal check-in next week, but a good milestone would be to have everything roughly laid out and developing any assets you'll use (like illustrations). You should also work on gathering up materials for your process book and start thinking about how you want to structure that.
