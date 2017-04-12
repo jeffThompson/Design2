@@ -12,13 +12,13 @@ For your final deliverable, you'll be creating a video in Keynote that shows the
 * At least two interactive or animated elements in your app  
 
 ### PROJECT CALENDAR  
-**April 13:** project launch and design sprint  
+**April 13:** project launch and [design sprint](https://github.com/jeffThompson/Design2/blob/master/Exercises/DesignSprint.md)  
 **April 20:** critique of print-on-demand books; screen mockups and interaction diagrams due; animated elements  
 **April 27:** project updates due; Keynote demos for interactive mockups  
 **Exam Period:** projects due, final critique
 
 ### FOR THURSDAY, APRIL 13  
-This week, we'll build on the design sprint ideation we did in class, and end up with some screen mockups and interaction diagrams. Start with paper or the whiteboard as a way of doing quick ["paper prototyping"](https://en.wikipedia.org/wiki/Paper_prototyping) – speed of iteration is much better than fancy graphics at this point. As Reid Hoffman, the founder of LinkedIn said: "If you're not embarassed by the first version of your product, you released too late." You can use the printed templates given out in class, and print more from [the PDF here](https://github.com/jeffThompson/Design2/blob/master/Resources/PhoneTemplate.pdf) (also in the `Resources` folder).
+This week, we'll build on the [design sprint ideation](https://github.com/jeffThompson/Design2/blob/master/Exercises/DesignSprint.md) we did in class, and end up with some screen mockups and interaction diagrams. Start with paper or the whiteboard as a way of doing quick ["paper prototyping"](https://en.wikipedia.org/wiki/Paper_prototyping) – speed of iteration is much better than fancy graphics at this point. As Reid Hoffman, the founder of LinkedIn said: "If you're not embarassed by the first version of your product, you released too late." You can use the printed templates given out in class, and print more from [the PDF here](https://github.com/jeffThompson/Design2/blob/master/Resources/PhoneTemplate.pdf) (also in the `Resources` folder).
 
 In addition, map out the elements of your app into an [interaction diagram](http://agilemodeling.com/artifacts/uiFlowDiagram.htm). This should show the pages, transitions, interactive elements, and how everything ties together. This is about mapping logical, non-linear pathways through your app, and creating good user experience. A good way to figure this out is to actually "play-test" your paper prototypes, seeing how someone would actually use your app. You can design your diagram by hand, so long as it can be clearly read, or in Illustrator.
 
@@ -31,6 +31,7 @@ As you're working through this project, you may find Apple's [resources for inte
 
 ### RESOURCES  
 * [PDF phone template](https://github.com/jeffThompson/Design2/blob/master/Resources/PhoneTemplate.pdf) used in class  
+* The outline of our [design sprint](https://github.com/jeffThompson/Design2/blob/master/Exercises/DesignSprint.md), which may be useful at other stages of this project  
 * Some articles on interaction diagrams from [IBM](https://www.ibm.com/developerworks/rational/library/4697.html) and [Agile Modeling](http://agilemodeling.com/artifacts/uiFlowDiagram.htm)  
 * [This excellent animation](http://giphy.com/gifs/10-principles-of-motion-design-3oriOiLUqWXA9Rc7eM) showing principles of motion design  
 * If you want to get further into the design sprint/Agile Development model, see [this article](https://www.mountaingoatsoftware.com/agile/user-stories) on "user stories"  
