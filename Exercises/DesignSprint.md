@@ -1,17 +1,15 @@
-![The flowchart of a design sprint]()
+![The flowchart of a design sprint](https://raw.githubusercontent.com/jeffThompson/Design2/master/Images/Week12/DesignSprintFlowchart.png)
 
 DESIGN SPRINT
 ====
 
 Today we'll be running a "design sprint" (or part of one, at least) as a way of generating ideas for a project. This process, developed at Google for their Google Venture incubator, is about opening a group's mind to new ideas, then coming up with solutions. Design sprints are also about making "evidence based" choices – using observations and testing to determine the best design decisions. While usually run with groups of designers and developers, we'll use the design sprint in class as another tool for design ideation, and ignore the messy details of technical implementation ☺️
 
-We'll roughly follow these steps below.
-
 ### 0. DEFINE THE PROBLEM  
 The first step happens before the sprint, and outlines a "challenge statement," which in this case is the assignment, and includes a list of deliverables.
 
 ### 1. UNDERSTAND (THE CHALLENGE)  
-The first step, before thinking about solutions, is to understand the challenge. As a group, quickly and without worrying about how 
+The first step, before thinking about solutions, is to understand the challenge. As a group, quickly and without worrying about how this will be translated into a design, think about these questions:
 
 * What is foundational to this challenge? What absolutely must be accomplished?  
 * What is useful and delightful to the user?  
