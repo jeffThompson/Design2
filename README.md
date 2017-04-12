@@ -173,7 +173,7 @@ Excerpt from *Design of Everyday Things* (Norman), *Interaction Design is Dead. 
 
 \- \- \-
 
-### WEEK 12  
+### [WEEK 12](https://github.com/jeffThompson/Design2/blob/master/Assignments/12_AppDesign.md)  
 **DUE: process book, finished book project sent to Blurb for printing**  
 
 **Discussion**  
@@ -183,7 +183,7 @@ Print vs screen paradigms
 Design sprint group ideation
 
 **Homework**  
-App Design screen mockups and interaction diagrams
+[App Design](https://github.com/jeffThompson/Design2/blob/master/Assignments/12_AppDesign.md) screen mockups and interaction diagrams
 
 \- \- \-
 
@@ -194,7 +194,7 @@ App Design screen mockups and interaction diagrams
 Work day
 
 **Homework**  
-Work on App Design project
+Work on [App Design](https://github.com/jeffThompson/Design2/blob/master/Assignments/12_AppDesign.md) project
 
 \- \- \-
 
@@ -208,7 +208,7 @@ Using Keynote for interactive demos, compressing graphics-heavy videos, uploadin
 Work day  
 
 **Homework**  
-App Design video
+[App Design](https://github.com/jeffThompson/Design2/blob/master/Assignments/12_AppDesign.md) video
 
 \- \- \-
 
