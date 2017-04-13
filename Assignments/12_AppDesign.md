@@ -12,10 +12,10 @@ For your final deliverable, you'll be creating a video in Keynote that shows the
 * At least two interactive or animated elements in your app  
 
 ### PROJECT CALENDAR  
-**April 13:** project launch and [design sprint](https://github.com/jeffThompson/Design2/blob/master/Exercises/DesignSprint.md)  
-**April 20:** critique of print-on-demand books; screen mockups and interaction diagrams due; animated elements  
-**April 27:** project updates due; Keynote demos for interactive mockups  
-**Exam Period:** projects due, final critique
+**April 13:** Project launch and [design sprint](https://github.com/jeffThompson/Design2/blob/master/Exercises/DesignSprint.md)  
+**April 20:** Screen mockups and interaction diagrams due; animated elements  
+**April 27:** Critique of print-on-demand books; project updates due; Keynote demos for interactive mockups  
+**Exam Period:** Projects due, final critique
 
 ### FOR THURSDAY, APRIL 13  
 This week, we'll build on the [design sprint ideation](https://github.com/jeffThompson/Design2/blob/master/Exercises/DesignSprint.md) we did in class, and end up with some screen mockups and interaction diagrams. Start with paper or the whiteboard as a way of doing quick ["paper prototyping"](https://en.wikipedia.org/wiki/Paper_prototyping) – speed of iteration is much better than fancy graphics at this point. As Reid Hoffman, the founder of LinkedIn said: "If you're not embarassed by the first version of your product, you released too late." You can use the printed templates given out in class, and print more from [the PDF here](https://github.com/jeffThompson/Design2/blob/master/Resources/PhoneTemplate.pdf) (also in the `Resources` folder).
@@ -36,4 +36,5 @@ As you're working through this project, you may find Apple's [resources for inte
 * [This excellent animation](http://giphy.com/gifs/10-principles-of-motion-design-3oriOiLUqWXA9Rc7eM) showing principles of motion design  
 * If you want to get further into the design sprint/Agile Development model, see [this article](https://www.mountaingoatsoftware.com/agile/user-stories) on "user stories"  
 * [This article](http://alistapart.com/article/motion-with-meaning-semantic-animation-in-interface-design) is an excellent introduction to interface animation  
+* More on the idea of [skeumorphism](https://en.wikipedia.org/wiki/Skeuomorph), and [why you might use it (or not)](https://www.interaction-design.org/literature/article/skeuomorphism-is-dead-long-live-skeuomorphism)  
 
