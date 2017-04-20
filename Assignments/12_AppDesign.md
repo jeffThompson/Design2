@@ -14,7 +14,8 @@ For your final deliverable, you'll be creating a video in Keynote that shows the
 ### PROJECT CALENDAR  
 **April 13:** Project launch and [design sprint](https://github.com/jeffThompson/Design2/blob/master/Exercises/DesignSprint.md)  
 **April 20:** Screen mockups and interaction diagrams due; animated elements  
-**April 27:** Critique of print-on-demand books; project updates due; Keynote demos for interactive mockups  
+**April 27:** Critique of print-on-demand books; work day  
+**May 4:** Project updates due; Keynote demos for interactive mockups  
 **Exam Period:** Projects due, final critique
 
 ### FOR THURSDAY, APRIL 13  
@@ -29,6 +30,23 @@ As you're working through this project, you may find Apple's [resources for inte
 * At least 20 screen mockup drawings, hand-drawn or printed  
 * At least one finished interaction diagram, also drawn or printed  
 
+### FOR THURSDAY, APRIL 20  
+This week, keep working on your app designs, considering the feedback you got in class. While there are no specific deliverables for next week, you'll want to make some good headway – next week we'll be looking at how to turn your static Illustrator mockups into video documentation with Keynote.
+
+When you set up your artboards to design the final version of your app, a few things to make sure are set up right when creating your document:
+
+* Your artboard should be 750x1340 pixels, same as the iPhone 6 screen (you can also pick it from the `Mobile > iPhone 6/6s` template section)  
+* Be sure `Color Mode` is set to RGB  
+* Change `Preview Mode` to `Pixel`
+
+A few other things to get set up:  
+
+* In `Preferences > General...` set keyboard increment to 1px  
+* In `Preferences > Units...` change everything to pixels, and update `Guides and Grid...` to pixels too  
+* Open the `Transform` tool palette, click the little menu button, and select `Align New Objects to Pixel Grid` ([read more about this option here](https://helpx.adobe.com/illustrator/using/pixel-perfect.html) – you'll probably want to turn this off when you're done)  
+
+You can use multiple files for your different screens, but setting up several artboards in one file will probably be easier. Like InDesign, Illustrator also allows for Graphic, Character, and Paragraph Styles. If you want a challenge, trying to use these across your design (see [this tutorial](https://helpx.adobe.com/illustrator/using/graphic-styles.html) for more info).
+
 ### RESOURCES  
 * Sliders and drawings from our design sprint [here](https://github.com/jeffThompson/Design2/tree/master/Images/Week12/DesignSprintDrawings)  
 * [PDF phone template](https://github.com/jeffThompson/Design2/blob/master/Resources/PhoneTemplate.pdf) used in class  
@@ -38,4 +56,5 @@ As you're working through this project, you may find Apple's [resources for inte
 * If you want to get further into the design sprint/Agile Development model, see [this article](https://www.mountaingoatsoftware.com/agile/user-stories) on "user stories"  
 * [This article](http://alistapart.com/article/motion-with-meaning-semantic-animation-in-interface-design) is an excellent introduction to interface animation  
 * More on the idea of [skeumorphism](https://en.wikipedia.org/wiki/Skeuomorph), and [why you might use it (or not)](https://www.interaction-design.org/literature/article/skeuomorphism-is-dead-long-live-skeuomorphism)  
+* If you want some pointers on building interfaces with Illustrator, [this tutorial](https://design.tutsplus.com/tutorials/create-a-weather-app-design-for-ios-in-adobe-illustrator--vector-12291) does a nice job of covering shape-building and text, and [this one](https://spin.atomicobject.com/2013/10/14/illustrator-app-design/) covers basic settings when starting a project  
 

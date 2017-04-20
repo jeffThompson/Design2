@@ -190,6 +190,9 @@ Design sprint group ideation
 ### WEEK 13  
 **DUE: App Design screen mockups and interaction diagrams**  
 
+**Demos**  
+Setting up document for mobile projects, animated elements  
+
 **In class**  
 Work day
 
@@ -199,6 +202,14 @@ Work on [App Design](https://github.com/jeffThompson/Design2/blob/master/Assignm
 \- \- \-
 
 ### WEEK 14  
+Work day, demos as needed
+
+**Homework**  
+[App Design](https://github.com/jeffThompson/Design2/blob/master/Assignments/12_AppDesign.md) project updates  
+
+\- \- \-
+
+### WEEK 15  
 **DUE: App Design project updates**
 
 **Demo**  
