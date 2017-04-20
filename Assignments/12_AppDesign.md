@@ -16,7 +16,7 @@ For your final deliverable, you'll be creating a video in Keynote that shows the
 **April 20:** Screen mockups and interaction diagrams due; animated elements  
 **April 27:** Critique of print-on-demand books; work day  
 **May 4:** Project updates due; Keynote demos for interactive mockups  
-**Exam Period:** Projects due, final critique
+**Friday, May 12 from 9–1:** Projects due, final critique
 
 ### FOR THURSDAY, APRIL 13  
 This week, we'll build on the [design sprint ideation](https://github.com/jeffThompson/Design2/blob/master/Exercises/DesignSprint.md) we did in class (images of your sliders and drawings [here](https://github.com/jeffThompson/Design2/tree/master/Images/Week12/DesignSprintDrawings)), and end up with some screen mockups and interaction diagrams. Start with paper or the whiteboard as a way of doing quick ["paper prototyping"](https://en.wikipedia.org/wiki/Paper_prototyping) – speed of iteration is much better than fancy graphics at this point. As Reid Hoffman, the founder of LinkedIn said: "If you're not embarassed by the first version of your product, you released too late." You can use the printed templates given out in class, and print more from [the PDF here](https://github.com/jeffThompson/Design2/blob/master/Resources/PhoneTemplate.pdf) (also in the `Resources` folder).

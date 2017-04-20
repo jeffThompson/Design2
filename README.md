@@ -224,6 +224,8 @@ Work day
 \- \- \-
 
 ### EXAM PERIOD  
+Friday, May 12 from 9–1
+
 **DUE: App Projects**  
 Critique of final projects
 
