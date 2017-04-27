@@ -210,7 +210,8 @@ Work day, demos as needed
 \- \- \-
 
 ### WEEK 15  
-**DUE: App Design project updates**
+**DUE: Print-on-Demand books, App Design project updates**
+Critique of Print-on-Demand books, small group feedback on App Design projects
 
 **Demo**  
 Using Keynote for interactive demos, compressing graphics-heavy videos, uploading to Vimeo
