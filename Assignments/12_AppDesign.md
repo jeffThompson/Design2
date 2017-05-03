@@ -50,6 +50,17 @@ You can use multiple files for your different screens, but setting up several ar
 ### FOR THURSDAY, MAY 4  
 For next week, please continue to work on your app designs, arriving at a prototype that can be shown to the class. These should be printed on paper, and can include annotations in the margins about how something will be seen or interacted with. Next week, we'll do a small-group feedback session "trying out" your apps, critique your Print-on-Demand Books, and talk about creating video documentation in Keynote. (VA&T majors, please check that you have Keynote installed and that it's working ok.)
 
+### FOR FRIDAY, MAY 12 (9am–1pm)  
+**Note that we'll be meeting in the VA&T Lab, not wherever is listed on the exam schedule!**  
+
+For the final presentation, you should prepare a video in Keynote demonstrating your app design. The video should be your presentation, showing us your screen designs, give us a sense of the overall design choices, and demo your animated elements. Feel free to use things like label text, arrows, simulated interactions, and an intro screen to better explain your app. Be as specific about your transition and timing choices as you were about the app itself – the video is, in the end, your final design.
+
+When finished, export as a video at `1080p` (see below for other settings). Be sure to play it and make sure everything looks right, then upload to Canvas titled `LastnameFirstname_AppDesign.m4v`.
+
+![](https://raw.githubusercontent.com/jeffThompson/Design2/master/Images/Week12/VideoExport_1.jpg)
+
+![](https://raw.githubusercontent.com/jeffThompson/Design2/master/Images/Week12/VideoExport_2.jpg)
+
 ### RESOURCES  
 * Sliders and drawings from our design sprint [here](https://github.com/jeffThompson/Design2/tree/master/Images/Week12/DesignSprintDrawings)  
 * [PDF phone template](https://github.com/jeffThompson/Design2/blob/master/Resources/PhoneTemplate.pdf) used in class  
@@ -59,5 +70,7 @@ For next week, please continue to work on your app designs, arriving at a protot
 * If you want to get further into the design sprint/Agile Development model, see [this article](https://www.mountaingoatsoftware.com/agile/user-stories) on "user stories"  
 * [This article](http://alistapart.com/article/motion-with-meaning-semantic-animation-in-interface-design) is an excellent introduction to interface animation  
 * More on the idea of [skeumorphism](https://en.wikipedia.org/wiki/Skeuomorph), and [why you might use it (or not)](https://www.interaction-design.org/literature/article/skeuomorphism-is-dead-long-live-skeuomorphism)  
+* [Sample Illustrator and Keynote files](https://github.com/jeffThompson/Design2/raw/master/Resources/KeynoteAnimation.zip) for video mockups  
 * If you want some pointers on building interfaces with Illustrator, [this tutorial](https://design.tutsplus.com/tutorials/create-a-weather-app-design-for-ios-in-adobe-illustrator--vector-12291) does a nice job of covering shape-building and text, and [this one](https://spin.atomicobject.com/2013/10/14/illustrator-app-design/) covers basic settings when starting a project  
+* More on animation in Keynote from [this tutorial](https://support.apple.com/kb/ph16960?locale=en_US)  
 
